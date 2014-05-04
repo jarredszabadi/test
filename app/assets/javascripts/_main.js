@@ -11,6 +11,7 @@
  * Article URL: http://ihatetomatoes.net/how-to-create-a-parallax-scrolling-website-part-2/
  */
 
+
 ( function( $ ) {
 	
 	// Setup variables
@@ -30,7 +31,7 @@
 		      adjustWindow();
 		      
 		      // Init navigation
-		      initHomepageNav();
+		      //initHomepageNav();
 		      
 		      // Fade in sections
 			  $body.removeClass('loading').addClass('loaded');
