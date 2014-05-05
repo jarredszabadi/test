@@ -1,2 +1,146 @@
-<h1>StaticPages#help</h1>
-<p>Find me in app/views/static_pages/help.html.erb</p>
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>GymTrack | Coming Soon!</title>
+        <meta name="description" content="">
+        <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <%= stylesheet_link_tag "normalize" %>
+        <%= stylesheet_link_tag "help" %>
+		<%= javascript_include_tag "modernizr-2.7.1.min"%>
+        <style type="text/css">
+			body {
+				font-family: 'Open Sans', sans-serif;
+			}
+		</style>
+
+    </head>
+    <body class="loading">
+
+
+
+
+    	<header id="header">
+			<div class="content">
+			<div id="logo">
+				<a href=""> GymTrack
+				<img src="/assets/ic_launcher.png" width ="50" height "50"/> 
+				</a>
+				
+			</div>
+
+			<nav id="nav">
+				<ul>
+					<li><a href="#slide-1" class="active" title="Next Section" >Home</a></li>
+					<li><a href="#slide-2" title="Next Section">About</a></li>
+					<li><a href="#slide-3" title="Next Section">The Team</a></li>
+					<li><a  href="#slide-4" title="Next Section">Contact Us</a></li>
+					
+				</ul>
+			</nav>
+			</div>
+		</header>	
+		  
+       	<main>
+       	 
+	        <section id="slide-1" class="homeSlide">
+	        	<div class="bcg" 
+	        		data-center="background-position: 50% 0px;" 
+	        		data-top-bottom="background-position: 50% -100px;" 
+	        		data-anchor-target="#slide-1"
+	        	>
+		        	<div class="hsContainer">
+			    		<div class="hsContent" 
+			    		data-center="bottom: 200px; opacity: 1" 
+			    		data-top="bottom: 1200px; opacity: 0" 
+			    		data-anchor-target="#slide-1 h2">
+				    		<h2>GymTrack is cool</h2>
+			    		</div>
+		        	</div>
+	        	</div>
+		    </section>
+		    
+			<section id="slide-2" class="homeSlide">
+				<div class="bcg" 
+					data-center="background-position: 50% 0px;" 
+					data-top-bottom="background-position: 50% -100px;" 
+					data-bottom-top="background-position: 50% 100px;" 
+					data-anchor-target="#slide-2"
+				>
+			    	<div class="hsContainer">
+			    		<div class="hsContent" 
+			    			data-center="opacity: 1" 
+			    			data-center-top="opacity: 0" 
+			    			data--100-bottom="opacity: 0;" 
+			    			data-anchor-target="#slide-2"
+			    		>
+				    		<h2>About Us</h2>
+			    		</div>
+			    	</div>
+				</div>
+			</section>
+		    
+			<section id="slide-3" class="homeSlide">
+				<div class="bcg" 
+					data-center="background-position: 50% 0px;" 
+					data-top-bottom="background-position: 50% -100px;" 
+					data-bottom-top="background-position: 50% 100px;" 
+					data-anchor-target="#slide-3"
+				>
+			    	<div class="hsContainer">
+						<div class="hsContent" 
+							data--50-bottom="opacity: 0;" 
+							data--200-bottom="opacity: 1;" 
+							data-center="opacity: 1" 
+							data-200-top="opacity: 0" 
+							data-anchor-target="#slide-3 h2"
+						>
+				    		<h2>Meet The Team</h2>
+			    		</div>
+			    	</div>
+			    	
+			    </div>
+			</section>
+			
+			<section id="slide-4" class="homeSlide">
+				<div class="bcg" 
+					data-center="background-position: 50% 0px;" 
+					data-top-bottom="background-position: 50% -100px;" 
+					data-bottom-top="background-position: 50% 100px;" 
+					data-anchor-target="#slide-4"
+				>
+			    	<div class="hsContainer">
+						<div class="hsContent" 
+							data-bottom-top="opacity: 0" 
+							data-25p-top="opacity: 0" 
+							data-top="opacity: 1"  
+							data-anchor-target="#slide-4"
+						>
+				    		<h2>Contact Us</h2>
+			    		</div>
+			    	</div>
+			    	
+			    </div>
+			</section>
+		    
+		</main>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <%= javascript_include_tag "imagesloaded"%>
+        <%= javascript_include_tag "waypoints.min"%>
+        <%= javascript_include_tag "skrollr"%>
+        <!--[if lt IE 9]>
+		<%= javascript_include_tag "skrollr.ie.min"%>
+		<![endif]-->
+        <%= javascript_include_tag "_main"%>
+
+    </body>
+</html>
