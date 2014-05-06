@@ -1913,3 +1913,76 @@ Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-06 00:44:09 -0400
 
 
 Started GET "/assets/ic_launcher.png" for 127.0.0.1 at 2014-05-06 00:44:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 15:29:14 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (313.0ms)
+  Rendered static_pages/help.html.erb within layouts/application (428.0ms)
+Completed 200 OK in 3162ms (Views: 3121.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:19 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-06 15:29:19 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-06 15:29:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 15:29:19 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-06 15:29:19 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-06 15:29:20 -0400

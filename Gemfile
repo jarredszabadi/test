@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.0'
+gem 'tzinfo-data'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
