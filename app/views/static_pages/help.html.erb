@@ -22,6 +22,8 @@
 		<%= javascript_include_tag "jquery.easing.min" %>
 		<%= javascript_include_tag "jquery.scrollstop" %>
 		
+		<%= javascript_include_tag "waypoints.min" %>
+		
 		<%= javascript_include_tag "imagesloaded" %>
 		<%= javascript_include_tag "modernizr-2.7.1.min" %>
 		
@@ -30,8 +32,6 @@
 				var slideID = snapEle.attr("id");
 				$("#nav-ul > li > a").removeClass("active");
 				var newVisible = $("#a-"+slideID).addClass("active");
-				console.log("slide id: "+slideID);
-				console.log(newVisible);
 			}
 		
 			$(document).ready(function() {
@@ -53,14 +53,9 @@
     <body class="loading">
 		
     	<header id="header">
-			<div class="content">
-			<div id="logo">
-				<a href=""> GymTrack
-				<img src="/assets/ic_launcher.png" width ="50" height "50"/> 
-				</a>
-				
-			</div>
-
+			<div id="nav-header" class="content">
+			<img id="logo" src="/assets/gt_logo.png"/>
+			
 			<nav id="nav">
 				<ul id="nav-ul">
 					<li><a id="a-slide-1" href="#slide-1" class="active" title="Next Section">Home</a></li>
@@ -76,16 +71,15 @@
        	<main>
        	 
 	        <section id="slide-1" class="homeSlide snap">
-	        	<div class="bcg" 
+	        	<div id="bcg-slide-1" class="bcg" 
 	        		data-center="background-position: 50% 0px;" 
 	        		data-top-bottom="background-position: 50% 0px;" 
 	        		data-anchor-target="#slide-1">
 		        	<div class="hsContainer">
 			    		<div class="hsContent" 
 							data-center="opacity: 1" 
-							data-206-top="opacity: 1"
-							data-100-top="opacity: 0"
-							data-anchor-target="#slide-1 h2">
+			    			data-250-top="opacity: 0;" 
+							data-anchor-target="#slide-1">
 				    		<h2>GymTrack is cool</h2>							
 							<div id="slide-1-content">
 								Coming soon.
@@ -96,16 +90,15 @@
 		    </section>
 		    
 			<section id="slide-2" class="homeSlide snap">
-				<div class="bcg" 
+				<div id="bcg-slide-2" class="bcg" 
 					data-center="background-position: 50% 0px;" 
 					data-bottom-top="background-position: 50% 0px;" 
 					data-anchor-target="#slide-2">
 			    	<div class="hsContainer">
 			    		<div class="hsContent" 
-			    			data-center="opacity: 1" 
-			    			data-top="opacity: 1;"
-							data-200-bottom="opacity:1"							
-			    			data-anchor-target="#slide-2 h2 ">
+							data-center="opacity: 1" 
+			    			data-250-top="opacity: 0;" 				
+			    			data-anchor-target="#slide-2 ">
 				    		<h2>About Us</h2>
 <div id="slide-2-content" style="text-align:justify;opacity:1">
 <p>
@@ -122,18 +115,64 @@ Ut pellentesque ligula orci, eu cursus metus euismod in. Aliquam eros nunc, vest
 			</section>
 		    
 			<section id="slide-3" class="homeSlide snap">
-				<div class="bcg" 
+				<div id="bcg-slide-3"  class="bcg" 
 					data-center="background-position: 50% 0px;"  
 					data-bottom-top="background-position: 50% 0px;" 
 					data-anchor-target="#slide-3">
 			    	<div class="hsContainer">
 						<div class="hsContent" 
 							data-center="opacity: 1" 
-			    			data-100-top="opacity: 0;" 
-			    			data-anchor-target="#slide-3 h2 ">
+			    			data-250-top="opacity: 0;" 							
+			    			data-anchor-target="#slide-3">
 				    		<h2>Meet The Team</h2>
+							<br>
 							<div id="slide-3-content">
-								Information about our team
+								<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Lee</span>
+								</div>
+								
+								<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Pablo</span>
+								</div>
+								
+								<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Jarred</span>
+								</div>
+								
+								<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Jarred</span>
+								</div>
+
+								<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Jarred</span>
+								</div>
+
+								<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Jarred</span>
+								</div>
+
+								<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Jarred</span>
+								</div>
+								
+																<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Jarred</span>
+								</div>
+								
+																<div class="our-team-portrait">
+								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span>Jarred</span>
+								</div>
+								
+								</div>
 							</div>
 			    		</div>
 			    	</div>
@@ -142,14 +181,14 @@ Ut pellentesque ligula orci, eu cursus metus euismod in. Aliquam eros nunc, vest
 			</section>
 			
 			<section id="slide-4" class="homeSlide snap">
-				<div class="bcg" 
+				<div id="bcg-slide-4" class="bcg" 
 					data-center="background-position: 50% 0px;" 
 					data-bottom-top="background-position: 50% 0px;" 
 					data-anchor-target="#slide-4">
 			    	<div class="hsContainer">
 						<div class="hsContent" 
 							data-center="opacity: 1" 
-			    			data-100-top="opacity: 0;" 
+			    			data-250-top="opacity: 0;" 
 			    			data-anchor-target="#slide-4">
 				    		<h2>Contact Us</h2>
 							<div id="slide-4-content">
@@ -169,6 +208,53 @@ Ut pellentesque ligula orci, eu cursus metus euismod in. Aliquam eros nunc, vest
 				$(this).addClass("active");				
 			});
 		</script>	
+		
+		<script type="text/javascript">
+		$(document).ready(function(){
+				function ult(tarToUL){
+						$("#nav-ul > li > a").removeClass("active");
+						$(tarToUL).addClass("active");
+				}
+/*
+				var upDir = "up";
+				var downDir = "down";
+				$('#bcg-slide-1').waypoint(function(direction) {
+					console.log('Slide 1 ' + direction);
+					/*if(direction === downDir){			
+						ult("#slide2");
+					}
+				
+});
+				$('#bcg-slide-2').waypoint(function(direction) {
+					console.log('Slide 2 ' + direction);
+				/*	if(direction === downDir){			
+						ult("#slide3");
+					}
+					if(direction === upDir){			
+						ult("#slide1");
+					}
+					
+				
+});
+				$('#bcg-slide-3').waypoint(function(direction) {
+					console.log('Slide 3 ' + direction);
+				/*	if(direction === downDir){			
+						ult("#slide4");
+					}
+					if(direction === upDir){			
+						ult("#slide2");
+					}
+				
+});
+				$('#bcg-slide-4').waypoint(function(direction) {
+					console.log('Slide 4 ' + direction);
+					/*if(direction === upDir){			
+						ult("#slide3");
+					}
+				
+});*/
+			});
+		</script>
 		<%= javascript_include_tag "waypoints.min"%>
         <%= javascript_include_tag "skrollr"%>
         <%= javascript_include_tag "_main"%>
