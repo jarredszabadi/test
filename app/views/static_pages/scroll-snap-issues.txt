@@ -1,0 +1,14 @@
+Snap Fixflow
+
+-When you snap to a new panel
+	-Fix Active highlight
+	-Fix URL
+
+-When at the last panel
+	-Remove snap anchor from last panel
+	-Move snap anchors to the bottom of div instead of top
+
+determine scroll direction?????
+
+
+Swap over to PanelSnap since they can handle bi-directional snapping	

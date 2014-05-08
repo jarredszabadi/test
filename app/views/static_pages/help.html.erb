@@ -14,19 +14,44 @@
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <%= stylesheet_link_tag "normalize" %>
         <%= stylesheet_link_tag "help" %>
-		<%= javascript_include_tag "modernizr-2.7.1.min"%>
+		
+		<%= javascript_include_tag "jquery-1.9.1.min" %>
+		<%= javascript_include_tag "mobiledetect" %>
+		
+		<%= javascript_include_tag "jquery.scrollsnap" %>
+		<%= javascript_include_tag "jquery.easing.min" %>
+		<%= javascript_include_tag "jquery.scrollstop" %>
+		
+		<%= javascript_include_tag "imagesloaded" %>
+		<%= javascript_include_tag "modernizr-2.7.1.min" %>
+		
+		<script type="text/javascript">
+			function snapGT(snapEle){
+				var slideID = snapEle.attr("id");
+				$("#nav-ul > li > a").removeClass("active");
+				var newVisible = $("#a-"+slideID).addClass("active");
+				console.log("slide id: "+slideID);
+				console.log(newVisible);
+			}
+		
+			$(document).ready(function() {
+				$(document).scrollsnap({
+					snaps: '.snap',
+					proximity: 325,
+					onSnapWait: 50,
+					onSnap: snapGT
+				});
+			});
+		</script>
         <style type="text/css">
 			body {
 				font-family: 'Open Sans', sans-serif;
 			}
 		</style>
-
+		
     </head>
     <body class="loading">
-
-
-
-
+		
     	<header id="header">
 			<div class="content">
 			<div id="logo">
@@ -37,11 +62,11 @@
 			</div>
 
 			<nav id="nav">
-				<ul>
-					<li><a href="#slide-1" class="active" title="Next Section" >Home</a></li>
-					<li><a href="#slide-2" title="Next Section">About</a></li>
-					<li><a href="#slide-3" title="Next Section">The Team</a></li>
-					<li><a  href="#slide-4" title="Next Section">Contact Us</a></li>
+				<ul id="nav-ul">
+					<li><a id="a-slide-1" href="#slide-1" class="active" title="Next Section">Home</a></li>
+					<li><a id="a-slide-2" href="#slide-2" title="Next Section">About</a></li>
+					<li><a id="a-slide-3" href="#slide-3" title="Next Section">The Team</a></li>
+					<li><a id="a-slide-4" href="#slide-4" title="Next Section">Contact Us</a></li>
 					
 				</ul>
 			</nav>
@@ -50,81 +75,86 @@
 		  
        	<main>
        	 
-	        <section id="slide-1" class="homeSlide">
+	        <section id="slide-1" class="homeSlide snap">
 	        	<div class="bcg" 
 	        		data-center="background-position: 50% 0px;" 
-	        		data-top-bottom="background-position: 50% -100px;" 
-	        		data-anchor-target="#slide-1"
-	        	>
+	        		data-top-bottom="background-position: 50% 0px;" 
+	        		data-anchor-target="#slide-1">
 		        	<div class="hsContainer">
 			    		<div class="hsContent" 
-			    		data-center="bottom: 200px; opacity: 1" 
-			    		data-top="bottom: 1200px; opacity: 0" 
-			    		data-anchor-target="#slide-1 h2">
-				    		<h2>GymTrack is cool</h2>
-			    		</div>
+							data-center="opacity: 1" 
+							data-206-top="opacity: 1"
+							data-100-top="opacity: 0"
+							data-anchor-target="#slide-1 h2">
+				    		<h2>GymTrack is cool</h2>							
+							<div id="slide-1-content">
+								Coming soon.
+							</div>
+			    		</div>						
 		        	</div>
 	        	</div>
 		    </section>
 		    
-			<section id="slide-2" class="homeSlide">
+			<section id="slide-2" class="homeSlide snap">
 				<div class="bcg" 
 					data-center="background-position: 50% 0px;" 
-					data-top-bottom="background-position: 50% -100px;" 
-					data-bottom-top="background-position: 50% 100px;" 
-					data-anchor-target="#slide-2"
-				>
+					data-bottom-top="background-position: 50% 0px;" 
+					data-anchor-target="#slide-2">
 			    	<div class="hsContainer">
 			    		<div class="hsContent" 
 			    			data-center="opacity: 1" 
-			    			data-center-top="opacity: 0" 
-			    			data--100-bottom="opacity: 0;" 
-			    			data-anchor-target="#slide-2"
-			    		>
+			    			data-top="opacity: 1;"
+							data-200-bottom="opacity:1"							
+			    			data-anchor-target="#slide-2 h2 ">
 				    		<h2>About Us</h2>
+<div id="slide-2-content" style="text-align:justify;opacity:1">
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia blandit ligula quis mattis. Aenean varius massa vitae odio consectetur auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus molestie molestie risus, id auctor sapien iaculis nec. Morbi dictum mollis purus ac hendrerit. Quisque dictum sit amet sapien nec consectetur. Aliquam erat volutpat. Duis dui arcu, mollis id vulputate in, dictum ultrices nisl. Donec eget quam sed velit bibendum bibendum a ac velit. In eleifend sem ante, ac viverra metus sagittis a. Maecenas adipiscing dictum risus vitae fringilla. Pellentesque ut mauris a augue porttitor aliquam quis nec arcu. Nullam quis sem at nunc suscipit suscipit.
+</p>
+<p>
+Ut pellentesque ligula orci, eu cursus metus euismod in. Aliquam eros nunc, vestibulum id est sit amet, convallis volutpat nibh. Aliquam id purus id urna sodales fringilla vitae quis eros. Curabitur in risus velit. Praesent condimentum, mauris nec suscipit elementum, tortor sem aliquet mi, id aliquet velit odio non ligula. In at turpis vulputate, ullamcorper ipsum eu, hendrerit urna. Donec quis lacus in ipsum sollicitudin condimentum. Nulla facilisi. Morbi ac sapien id nunc malesuada volutpat. Donec convallis sodales nisi, nec facilisis magna mollis vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur id diam et magna dapibus dapibus sit amet vitae felis. Cras eleifend dolor augue. Fusce tortor mauris, iaculis vel nulla euismod, tincidunt sodales dui. Phasellus non condimentum arcu, nec fringilla turpis. Integer in metus sed tellus pellentesque pulvinar.
+</p>
+							</div>
 			    		</div>
+													
 			    	</div>
 				</div>
 			</section>
 		    
-			<section id="slide-3" class="homeSlide">
+			<section id="slide-3" class="homeSlide snap">
 				<div class="bcg" 
-					data-center="background-position: 50% 0px;" 
-					data-top-bottom="background-position: 50% -100px;" 
-					data-bottom-top="background-position: 50% 100px;" 
-					data-anchor-target="#slide-3"
-				>
+					data-center="background-position: 50% 0px;"  
+					data-bottom-top="background-position: 50% 0px;" 
+					data-anchor-target="#slide-3">
 			    	<div class="hsContainer">
 						<div class="hsContent" 
-							data--50-bottom="opacity: 0;" 
-							data--200-bottom="opacity: 1;" 
 							data-center="opacity: 1" 
-							data-200-top="opacity: 0" 
-							data-anchor-target="#slide-3 h2"
-						>
+			    			data-100-top="opacity: 0;" 
+			    			data-anchor-target="#slide-3 h2 ">
 				    		<h2>Meet The Team</h2>
+							<div id="slide-3-content">
+								Information about our team
+							</div>
 			    		</div>
 			    	</div>
 			    	
 			    </div>
 			</section>
 			
-			<section id="slide-4" class="homeSlide">
+			<section id="slide-4" class="homeSlide snap">
 				<div class="bcg" 
 					data-center="background-position: 50% 0px;" 
-					data-top-bottom="background-position: 50% -100px;" 
-					data-bottom-top="background-position: 50% 100px;" 
-					data-anchor-target="#slide-4"
-				>
+					data-bottom-top="background-position: 50% 0px;" 
+					data-anchor-target="#slide-4">
 			    	<div class="hsContainer">
 						<div class="hsContent" 
-							data-bottom-top="opacity: 0" 
-							data-25p-top="opacity: 0" 
-							data-top="opacity: 1"  
-							data-anchor-target="#slide-4"
-						>
+							data-center="opacity: 1" 
+			    			data-100-top="opacity: 0;" 
+			    			data-anchor-target="#slide-4">
 				    		<h2>Contact Us</h2>
-				    		<%= render "contact" %>
+							<div id="slide-4-content">
+								<%= render "contact" %>
+							</div>
 			    		</div>
 			    	</div>
 			    	
@@ -132,16 +162,16 @@
 			</section>
 		    
 		</main>
-
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-        <%= javascript_include_tag "imagesloaded"%>
-        <%= javascript_include_tag "waypoints.min"%>
+        <script type="text/javascript">				
+			$("#nav-ul").on("click", "a", function(){
+				console.log("Clicked on a nav link");
+				$("#nav-ul > li > a").removeClass("active");
+				$(this).addClass("active");				
+			});
+		</script>	
+		<%= javascript_include_tag "waypoints.min"%>
         <%= javascript_include_tag "skrollr"%>
-        <!--[if lt IE 9]>
-		<%= javascript_include_tag "skrollr.ie.min"%>
-		<![endif]-->
         <%= javascript_include_tag "_main"%>
-
+		
     </body>
 </html>
