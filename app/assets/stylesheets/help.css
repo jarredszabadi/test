@@ -241,6 +241,16 @@ main {
 	max-width: 200px;
 	margin:2px;
 }
+
+.mobile-banner{
+	visibility:hidden;
+}
+
+#hide-mobile-button{
+	float:right;
+	text-align:top;
+	font-size:small;
+}
 .our-team-icon{
 	display:block;
 	margin: 0 auto 0 auto;

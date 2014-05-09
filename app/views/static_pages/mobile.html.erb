@@ -16,33 +16,7 @@
         <%= stylesheet_link_tag "help" %>
 		
 		<%= javascript_include_tag "jquery-1.9.1.min" %>
-		<%= javascript_include_tag "mobiledetect" %>
 		
-		<%= javascript_include_tag "jquery.scrollsnap" %>
-		<%= javascript_include_tag "jquery.easing.min" %>
-		<%= javascript_include_tag "jquery.scrollstop" %>
-		
-		<%= javascript_include_tag "waypoints.min" %>
-		
-		<%= javascript_include_tag "imagesloaded" %>
-		<%= javascript_include_tag "modernizr-2.7.1.min" %>
-		
-		<script type="text/javascript">
-			function snapGT(snapEle){
-				var slideID = snapEle.attr("id");
-				$("#nav-ul > li > a").removeClass("active");
-				var newVisible = $("#a-"+slideID).addClass("active");
-			}
-		
-			$(document).ready(function() {
-				$(document).scrollsnap({
-					snaps: '.snap',
-					proximity: 325,
-					onSnapWait: 50,
-					onSnap: snapGT
-				});
-			});
-		</script>
         <style type="text/css">
 			body {
 				font-family: 'Open Sans', sans-serif;
@@ -69,197 +43,21 @@
 		</header>	
 		  
        	<main>
-       	 
 	        <section id="slide-1" class="homeSlide snap">
 	        	<div id="bcg-slide-1" class="bcg" 
 	        		data-center="background-position: 50% 0px;" 
 	        		data-top-bottom="background-position: 50% 0px;" 
 	        		data-anchor-target="#slide-1">
 		        	<div class="hsContainer">
-			    		<div class="hsContent" 
-							data-center="opacity: 1" 
-			    			data-250-top="opacity: 1;" 
-							data-anchor-target="#slide-1-content">							
-							<div id="slide-1-content">
-								<%= image_tag("GymTrack-darkscale.png", :alt => "Placeholder", width:'50%', height:'50%') %>
-								<p id="slide-1-message">Mobile Pages</p>
-								
-							</div>
+			    		<div class="hsContent">
 							
+							<div id="slide-1-content">
+								GymTrack works best on desktop browsers.
+							</div>							
 			    		</div>						
 		        	</div>
 	        	</div>
 		    </section>
-		    
-			<section id="slide-2" class="homeSlide snap">
-				<div id="bcg-slide-2" class="bcg" 
-					data-center="background-position: 50% 0px;" 
-					data-bottom-top="background-position: 50% 0px;" 
-					data-anchor-target="#slide-2">
-			    	<div class="hsContainer">
-			    		<div class="hsContent" 
-							data-center="opacity: 1" 
-			    			data-250-top="opacity: 0;" 				
-			    			data-anchor-target="#slide-2 ">
-				    		<h2>About Us</h2>
-<div id="slide-2-content" style="text-align:justify;opacity:1">
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia blandit ligula quis mattis. Aenean varius massa vitae odio consectetur auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus molestie molestie risus, id auctor sapien iaculis nec. Morbi dictum mollis purus ac hendrerit. Quisque dictum sit amet sapien nec consectetur. Aliquam erat volutpat. Duis dui arcu, mollis id vulputate in, dictum ultrices nisl. Donec eget quam sed velit bibendum bibendum a ac velit. In eleifend sem ante, ac viverra metus sagittis a. Maecenas adipiscing dictum risus vitae fringilla. Pellentesque ut mauris a augue porttitor aliquam quis nec arcu. Nullam quis sem at nunc suscipit suscipit.
-</p>
-<p>
-Ut pellentesque ligula orci, eu cursus metus euismod in. Aliquam eros nunc, vestibulum id est sit amet, convallis volutpat nibh. Aliquam id purus id urna sodales fringilla vitae quis eros. Curabitur in risus velit. Praesent condimentum, mauris nec suscipit elementum, tortor sem aliquet mi, id aliquet velit odio non ligula. In at turpis vulputate, ullamcorper ipsum eu, hendrerit urna. Donec quis lacus in ipsum sollicitudin condimentum. Nulla facilisi. Morbi ac sapien id nunc malesuada volutpat. Donec convallis sodales nisi, nec facilisis magna mollis vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur id diam et magna dapibus dapibus sit amet vitae felis. Cras eleifend dolor augue. Fusce tortor mauris, iaculis vel nulla euismod, tincidunt sodales dui. Phasellus non condimentum arcu, nec fringilla turpis. Integer in metus sed tellus pellentesque pulvinar.
-</p>
-							</div>
-			    		</div>
-													
-			    	</div>
-				</div>
-			</section>
-		    
-			<section id="slide-3" class="homeSlide snap">
-				<div id="bcg-slide-3"  class="bcg" 
-					data-center="background-position: 50% 0px;"  
-					data-bottom-top="background-position: 50% 0px;" 
-					data-anchor-target="#slide-3">
-			    	<div class="hsContainer">
-						<div class="hsContent" 
-							data-center="opacity: 1" 
-			    			data-250-top="opacity: 0;" 							
-			    			data-anchor-target="#slide-3">
-				    		<h2>Meet The Team</h2>
-							<br>
-							<div id="slide-3-content">
-								<div class="our-team-portrait">
-								<%= image_tag("headshots/lee-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Lee</span>
-								</div>
-								
-								<div class="our-team-portrait">
-								<%= image_tag("headshots/pablo-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Pablo</span>
-								</div>
-								
-								<div class="our-team-portrait">
-								<%= image_tag("headshots/jarred-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
-								</div>
-								
-								<div class="our-team-portrait">
-								<%= image_tag("headshots/aaron-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Aaron</span>
-								</div>
-
-								<div class="our-team-portrait">
-								<%= image_tag("headshots/corey-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Corey</span>
-								</div>
-
-								<div class="our-team-portrait">
-								<%= image_tag("headshots/ron-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Ron</span>
-								</div>
-
-								<div class="our-team-portrait">
-								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
-								</div>
-								
-																<div class="our-team-portrait">
-								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
-								</div>
-								
-																<div class="our-team-portrait">
-								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
-								</div>
-								
-								</div>
-							</div>
-			    		</div>
-			    	</div>
-			    	
-			    </div>
-			</section>
-			
-			<section id="slide-4" class="homeSlide snap">
-				<div id="bcg-slide-4" class="bcg" 
-					data-center="background-position: 50% 0px;" 
-					data-bottom-top="background-position: 50% 0px;" 
-					data-anchor-target="#slide-4">
-			    	<div class="hsContainer">
-						<div class="hsContent" 
-							data-center="opacity: 1" 
-			    			data-250-top="opacity: 0;" 
-			    			data-anchor-target="#slide-4">
-				    		<h2>Contact Us</h2>
-							<div id="slide-4-content">
-								<%= render "contact" %>
-							</div>
-			    		</div>
-			    	</div>
-			    	
-			    </div>
-			</section>
-		    
-		</main>
-        <script type="text/javascript">				
-			$("#nav-ul").on("click", "a", function(){
-				console.log("Clicked on a nav link");
-				$("#nav-ul > li > a").removeClass("active");
-				$(this).addClass("active");				
-			});
-		</script>	
-		
-		<script type="text/javascript">
-		$(document).ready(function(){
-				function ult(tarToUL){
-						$("#nav-ul > li > a").removeClass("active");
-						$(tarToUL).addClass("active");
-				}
-/*
-				var upDir = "up";
-				var downDir = "down";
-				$('#bcg-slide-1').waypoint(function(direction) {
-					console.log('Slide 1 ' + direction);
-					/*if(direction === downDir){			
-						ult("#slide2");
-					}
-				
-});
-				$('#bcg-slide-2').waypoint(function(direction) {
-					console.log('Slide 2 ' + direction);
-				/*	if(direction === downDir){			
-						ult("#slide3");
-					}
-					if(direction === upDir){			
-						ult("#slide1");
-					}
-					
-				
-});
-				$('#bcg-slide-3').waypoint(function(direction) {
-					console.log('Slide 3 ' + direction);
-				/*	if(direction === downDir){			
-						ult("#slide4");
-					}
-					if(direction === upDir){			
-						ult("#slide2");
-					}
-				
-});
-				$('#bcg-slide-4').waypoint(function(direction) {
-					console.log('Slide 4 ' + direction);
-					/*if(direction === upDir){			
-						ult("#slide3");
-					}
-				
-});*/
-			});
-		</script>
-		<%= javascript_include_tag "waypoints.min"%>
-        <%= javascript_include_tag "skrollr"%>
-        <%= javascript_include_tag "_main"%>
-		
+		</main>		
     </body>
 </html>
