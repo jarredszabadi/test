@@ -218,7 +218,16 @@ main {
     text-align: center
 }
 #slide-2 h2 {
-	margin-top: -100px;
+	margin-top: 5px;
+}
+
+#about-us-text{
+	width:650px;
+	font-size:25px;
+	
+}
+#slide-2-content{
+text-align:center;	
 }
 
 /* Slide 3 */
