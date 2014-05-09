@@ -150,7 +150,9 @@ main {
 #slide-1 .bcg {background-image:url('GymTrackD.png')}
 
 /* Slide 2 */
-#slide-2 .bcg {background: none; background-color: #010101; text-align: center}
+#slide-2 .bcg {
+/*background: none; background-color: #010101; text-align: center
+*/}
 
 /* Slide 3 */
 #slide-3 .bcg {background-image:url('kettlebells.jpg')}

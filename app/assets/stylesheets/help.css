@@ -189,8 +189,7 @@ main {
 
 /* Slide 1 */
 #slide-1 .bcg {
-	background-color:black;
-	background-image:url('GymTrackD.png');
+	background-image:url('slide-1-bg.jpg');
 }
 #slide-1 .hsContent {
 }
@@ -200,8 +199,7 @@ main {
 
 /* Slide 2 */
 #slide-2 .bcg {
-background-color: #777777;
-background:url('loops.jpg') no-repeat center center fixed;
+	background-image:url('slide-2-bg.jpg')
 }
 #slide-2 .hsContent {
     max-width: 450px;
@@ -218,7 +216,7 @@ background:url('loops.jpg') no-repeat center center fixed;
 
 /* Slide 3 */
 #slide-3 .bcg {
-	background-image:url('kettlebells.jpg')
+	background-image:url('slide-3-bg.jpg')
 }
 #slide-3 .hsContent {
 }
@@ -240,7 +238,7 @@ background:url('loops.jpg') no-repeat center center fixed;
 
 /* Slide 4 */
 #slide-4 .bcg {
-	background-image:url('kitty.jpg')
+	background-image:url('slide-4-bg.jpg')
 }
 #slide-4 .hsContent {
 }
