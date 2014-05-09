@@ -10,7 +10,7 @@
 if (jQuery.browser.mobile == true){
 	var url = "as";
 	console.log("Before"+window.location.path);
-	window.location.replace("/static_pages/mobile");
+//	window.location.replace("/static_pages/mobile");
 	console.log("After"+window.location.path);
 	console.log("Mobile browser");
 }
