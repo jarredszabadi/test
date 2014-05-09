@@ -80,7 +80,7 @@
 							data-anchor-target="#slide-1-content">	
 							<h2 id="mobile-h2" class="mobile-banner">
 							<a href="static_pages/mobile">Check here for our mobile website</a> 
-							<span id="hide-mobile-button">X</span></h2>							
+							<div id="hide-mobile-button">X</div></h2>							
 							<div id="slide-1-content">
 								<%= image_tag("GymTrack-darkscale.png", :alt => "Placeholder", width:'50%', height:'50%') %>
 								<p id="slide-1-message">Coming soon!</p>
@@ -104,19 +104,14 @@
 			    			data-anchor-target="#slide-2 ">
 				    		<h2>About Us</h2>
 <div id="slide-2-content" style="text-align:justify;opacity:1">
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lacinia blandit ligula quis mattis. Aenean varius massa vitae odio consectetur auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus molestie molestie risus, id auctor sapien iaculis nec. Morbi dictum mollis purus ac hendrerit. Quisque dictum sit amet sapien nec consectetur. Aliquam erat volutpat. Duis dui arcu, mollis id vulputate in, dictum ultrices nisl. Donec eget quam sed velit bibendum bibendum a ac velit. In eleifend sem ante, ac viverra metus sagittis a. Maecenas adipiscing dictum risus vitae fringilla. Pellentesque ut mauris a augue porttitor aliquam quis nec arcu. Nullam quis sem at nunc suscipit suscipit.
-</p>
-<p>
-Ut pellentesque ligula orci, eu cursus metus euismod in. Aliquam eros nunc, vestibulum id est sit amet, convallis volutpat nibh. Aliquam id purus id urna sodales fringilla vitae quis eros. Curabitur in risus velit. Praesent condimentum, mauris nec suscipit elementum, tortor sem aliquet mi, id aliquet velit odio non ligula. In at turpis vulputate, ullamcorper ipsum eu, hendrerit urna. Donec quis lacus in ipsum sollicitudin condimentum. Nulla facilisi. Morbi ac sapien id nunc malesuada volutpat. Donec convallis sodales nisi, nec facilisis magna mollis vel. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur id diam et magna dapibus dapibus sit amet vitae felis. Cras eleifend dolor augue. Fusce tortor mauris, iaculis vel nulla euismod, tincidunt sodales dui. Phasellus non condimentum arcu, nec fringilla turpis. Integer in metus sed tellus pellentesque pulvinar.
-</p>
+<p>Gymtrack is a tech startup from Ottawa that builds smart, after-market gym equipment for fitness facilities. By retrofitting existing equipment with gymtrack, fitness facilities allow their users to automatically track their workouts and receive auditory personal training feedback in real-time through their smartphones. Gym members can use our app or website to see their progress and challenge other gym users, while fitness facilities get access to data about their gym members that they've never had access to before.</p>
 							</div>
 			    		</div>
 													
 			    	</div>
 				</div>
 			</section>
-		    
+				
 			<section id="slide-3" class="homeSlide snap">
 				<div id="bcg-slide-3"  class="bcg" 
 					data-center="background-position: 50% 0px;"  
@@ -131,49 +126,50 @@ Ut pellentesque ligula orci, eu cursus metus euismod in. Aliquam eros nunc, vest
 							<div id="slide-3-content">
 								<div class="our-team-portrait">
 								<%= image_tag("headshots/lee-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Lee</span>
+								<span class="our-team-name">Lee Silverstone</span>
+								<span class="our-team-title">Co-CEO</span>
 								</div>
 								
 								<div class="our-team-portrait">
 								<%= image_tag("headshots/pablo-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Pablo</span>
+								<span class="our-team-name">Pablo Srugo</span>
+								<span class="our-team-title">Co-CEO</span>
 								</div>
 								
 								<div class="our-team-portrait">
 								<%= image_tag("headshots/jarred-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
+								<span class="our-team-name">Jarred Szabadi</span>
+								<span class="our-team-title">Lead Mobile/Web Developer</span>
 								</div>
 								
 								<div class="our-team-portrait">
 								<%= image_tag("headshots/aaron-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Aaron</span>
+								<span class="our-team-name">Aaron Ramsey</span>
+								<span class="our-team-title">Hardware Engineer</span>
 								</div>
 
 								<div class="our-team-portrait">
 								<%= image_tag("headshots/corey-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Corey</span>
+								<span class="our-team-name">Corey Yanofsky</span>
+								<span class="our-team-title">Data Scientist</span>
 								</div>
 
 								<div class="our-team-portrait">
 								<%= image_tag("headshots/ron-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Ron</span>
+								<span class="our-team-name">Ron Clough</span>
+								<span class="our-team-title">Hardware Engineer</span>
 								</div>
 
 								<div class="our-team-portrait">
-								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
+								<%= image_tag("headshots/tristan-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span class="our-team-name">Tristan Marquis-Huer</span>
+								<span class="our-team-title">Software Developer</span>
 								</div>
 								
-																<div class="our-team-portrait">
-								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
-								</div>
-								
-																<div class="our-team-portrait">
-								<%= image_tag("our-team-icon.png", :alt => "Placeholder", :class =>"our-team-icon") %>
-								<span>Jarred</span>
-								</div>
-								
+								<div class="our-team-portrait">
+								<%= image_tag("headshots/kelly-headshot-icon.jpg", :alt => "Placeholder", :class =>"our-team-icon") %>
+								<span class="our-team-name">Kelly Seay</span>
+								<span class="our-team-title">UI/UX Designer</span>
 								</div>
 							</div>
 			    		</div>

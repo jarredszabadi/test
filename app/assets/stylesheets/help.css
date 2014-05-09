@@ -242,14 +242,32 @@ main {
 	margin:2px;
 }
 
+.our-team-name{
+display:block;
+}
+.our-team-title{
+display: block;
+font-size: small;
+}
+
 .mobile-banner{
 	visibility:hidden;
 }
 
 #hide-mobile-button{
 	float:right;
-	text-align:top;
 	font-size:small;
+	text-align:top;
+	width:40px;
+	height:100%;
+	display:inline;
+	text-align: center;
+	border-style: solid;
+	border-width:1px;
+	background-color: #222222;
+	opacity: 0.5;
+	cursor: pointer;
+	
 }
 .our-team-icon{
 	display:block;
