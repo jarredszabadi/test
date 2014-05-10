@@ -80152,3 +80152,3977 @@ Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-09 16:23:46 -0400
 
 
 Started GET "/assets/ico_loading.gif" for 127.0.0.1 at 2014-05-09 16:23:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (291.2ms)
+  Rendered static_pages/help.html.erb within layouts/application (394.3ms)
+Completed 200 OK in 606ms (Views: 570.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:37 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/header-bg.png" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started GET "/assets/ico_loading.gif" for 127.0.0.1 at 2014-05-09 21:44:38 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 21:44:54 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"jarred", "email"=>"jarredszabadi@gmail.com", "content"=>"fdsafdas"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.8ms)
+
+NotificationsMailer#new_message: processed outbound mail in 44.9ms
+
+Sent mail to jarredszabadi@gymtrack.com (1507.5ms)
+Date: Fri, 09 May 2014 21:44:54 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gymtrack.com
+Message-ID: <536d8496725fd_1ed3ffaafc2259c54ac@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+jarred,
+jarredszabadi@gmail.com,
+fdsafdas,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 1563ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:44:55 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:46:43 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (129.7ms)
+  Rendered static_pages/help.html.erb within layouts/application (236.2ms)
+Completed 200 OK in 512ms (Views: 420.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 21:46:49 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fsdafa", "email"=>"fdsafsf", "content"=>"fdsafdsa"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (1.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 34.6ms
+
+Sent mail to jarredszabadi@gymtrack.com (2770.4ms)
+Date: Fri, 09 May 2014 21:46:49 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gymtrack.com
+Message-ID: <536d8509eca32_1fe3fdd4d79a8f0569bf@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fsdafa,
+fdsafsf,
+fdsafdsa,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 2815ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:46:52 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (36.8ms)
+  Rendered static_pages/help.html.erb within layouts/application (45.6ms)
+Completed 200 OK in 60ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:48:25 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (8.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 32ms (Views: 31.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 21:48:30 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"hi", "email"=>"hi", "content"=>"hi"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 25.6ms
+
+Sent mail to jarredszabadi@gmail.com (3027.6ms)
+Date: Fri, 09 May 2014 21:48:30 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gmail.com
+Message-ID: <536d856e9fc86_1fe3fdd4eaf2bf057057@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+hi,
+hi,
+hi,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 3062ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:48:33 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 25ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 21:50:38 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fdsa", "email"=>"fsafsda", "content"=>"fsdafsdaf"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 16.6ms
+
+Sent mail to jarredszabadi@gmail.com (2810.7ms)
+Date: Fri, 09 May 2014 21:50:38 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gmail.com
+Message-ID: <536d85ee9f754_1fe3fdd4f0018805719a@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fdsa,
+fsafsda,
+fsdafsdaf,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 2831ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:50:41 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 28ms (Views: 27.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 21:51:27 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fas", "email"=>"fsdf", "content"=>"fsdafdsaf"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.2ms)
+
+NotificationsMailer#new_message: processed outbound mail in 18.4ms
+
+Sent mail to jarredszabadi@gmymtrack.com (2980.7ms)
+Date: Fri, 09 May 2014 21:51:27 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gmymtrack.com
+Message-ID: <536d861f67a6e_1fe3fdd4d72bd60572c7@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fas,
+fsdf,
+fsdafdsaf,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 3013ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:51:30 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (4.2ms)
+  Rendered static_pages/help.html.erb within layouts/application (14.2ms)
+Completed 200 OK in 33ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 21:52:11 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"link", "email"=>"link", "content"=>"link\r\n"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 15.9ms
+
+Sent mail to jarredszabadi@gymtrack.com (2647.5ms)
+Date: Fri, 09 May 2014 21:52:11 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gymtrack.com
+Message-ID: <536d864bc0119_1fe3fdd4db47c00573ba@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+link,
+link,
+link
+,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 2677ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 21:52:14 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (11.5ms)
+  Rendered static_pages/help.html.erb within layouts/application (31.1ms)
+Completed 200 OK in 59ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:02:47 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (105.2ms)
+  Rendered static_pages/help.html.erb within layouts/application (283.2ms)
+Completed 200 OK in 448ms (Views: 416.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:02:48 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:03:02 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"jarred", "email"=>"jarred", "content"=>"fafdsafsdafdsafd"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.8ms)
+
+NotificationsMailer#new_message: processed outbound mail in 32.4ms
+
+Sent mail to sazbatz@gmail.com (487.9ms)
+Date: Fri, 09 May 2014 22:03:02 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d88d68e58b_2253ff16e3c25a4605b@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+jarred,
+jarred,
+fafdsafsdafdsafd,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 529ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.2ms)
+  Rendered static_pages/help.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 27ms (Views: 26.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:03:03 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:27:53 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (44.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (63.1ms)
+Completed 200 OK in 110ms (Views: 102.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:27:54 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/header-bg.png" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started GET "/assets/ico_loading.gif" for 127.0.0.1 at 2014-05-09 22:27:55 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:28:01 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fas", "email"=>"safas", "content"=>"fsdfasdfas"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.2ms)
+
+NotificationsMailer#new_message: processed outbound mail in 29.0ms
+
+Sent mail to sazbatz@gmail.com (887.5ms)
+Date: Fri, 09 May 2014 22:28:01 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d8eb1e51c4_2253ff16d0ce22c60656@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fas,
+safas,
+fsdfasdfas,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 935ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:28:02 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.7ms)
+  Rendered static_pages/help.html.erb within layouts/application (12.6ms)
+Completed 200 OK in 27ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:03 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:28:31 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fasf", "email"=>"sfsadg", "content"=>"gsagsdaf"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 23.4ms
+
+Sent mail to sazbatz@gmail.com (417.2ms)
+Date: Fri, 09 May 2014 22:28:31 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d8ecfa92d8_2253ff16d0ce22c607ab@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fasf,
+sfsadg,
+gsagsdaf,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 443ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 26ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:32 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:28:52 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"sdafsda", "email"=>"sdfsaf", "content"=>"fdsafsafa"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.2ms)
+
+NotificationsMailer#new_message: processed outbound mail in 34.8ms
+
+Sent mail to sazbatz@gmail.com (430.6ms)
+Date: Fri, 09 May 2014 22:28:52 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d8ee4948b9_2253ff16d0ce22c6087d@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+sdafsda,
+sdfsaf,
+fdsafsafa,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 470ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (12.4ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:28:53 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:29:42 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"dsafas", "email"=>"fsd", "content"=>"fsdafasf"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 18.2ms
+
+Sent mail to sazbatz@gmail.com (415.2ms)
+Date: Fri, 09 May 2014 22:29:42 -0400
+From: sazbatz@gmail.com
+To: sazbatz@gmail.com
+Message-ID: <536d8f168fc76_2253ff16d0fbb7860917@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+dsafas,
+fsd,
+fsdafasf,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 448ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (4.5ms)
+  Rendered static_pages/help.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 29ms (Views: 28.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:29:43 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"please", "email"=>"please", "content"=>"please"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 19.0ms
+
+Sent mail to sazbatz@gmail.com (410.4ms)
+Date: Fri, 09 May 2014 22:39:25 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d915d33a16_2253ff16e2f80386101e@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+please,
+please,
+please,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 444ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.7ms)
+  Rendered static_pages/help.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 29ms (Views: 28.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:25 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:39:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 26ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:12 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/header-bg.png" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started GET "/assets/ico_loading.gif" for 127.0.0.1 at 2014-05-09 22:42:13 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fdsa", "email"=>"fdsaf", "content"=>"dsafa"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 21.9ms
+
+Sent mail to sazbatz@gmail.com (406.0ms)
+Date: Fri, 09 May 2014 22:42:19 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d920beab3_2253ff16d2fa2d061135@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fdsa,
+fdsaf,
+dsafa,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 436ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.3ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 26ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:19 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:20 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:20 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:20 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:20 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:20 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:20 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:42:56 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fds", "email"=>"dsaf", "content"=>"fdsafas"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 23.9ms
+
+Sent mail to sazbatz@gmail.com (393.3ms)
+Date: Fri, 09 May 2014 22:42:56 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d92307fa43_2253ff16e2d55b0612d2@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fds,
+dsaf,
+fdsafas,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 420ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:42:56 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 26ms (Views: 25.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:56 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:42:57 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:43:04 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fas", "email"=>"fasfd", "content"=>"sagdsadf"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 14.8ms
+
+Sent mail to sazbatz@gmail.com (409.2ms)
+Date: Fri, 09 May 2014 22:43:04 -0400
+From: jarredszabadi@gymtrack.com
+To: sazbatz@gmail.com
+Message-ID: <536d923884604_2253ff16e2d55b061389@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fas,
+fasfd,
+sagdsadf,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 428ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:43:04 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 28ms (Views: 26.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:43:05 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (8.7ms)
+  Rendered static_pages/help.html.erb within layouts/application (17.3ms)
+Completed 200 OK in 32ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:04 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/header-bg.png" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/ico_loading.gif" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-09 22:46:05 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:46:10 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fdsa", "email"=>"sadf", "content"=>"asfafsa"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 21.7ms
+
+Sent mail to sazbatz@gmail.com (783.1ms)
+Date: Fri, 09 May 2014 22:46:10 -0400
+From: sazbatz@gmail.com
+To: sazbatz@gmail.com
+Message-ID: <536d92f2a5d8d_2253ff16d7cf5446146a@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fdsa,
+sadf,
+asfafsa,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 816ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:46:11 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:46:52 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (99.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (198.3ms)
+Completed 200 OK in 358ms (Views: 322.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:46:53 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:47:01 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fsadf", "email"=>"dfsaf", "content"=>"ajfjajajjajajjjjjjj"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.7ms)
+
+NotificationsMailer#new_message: processed outbound mail in 29.3ms
+
+Sent mail to jarredszabadi@gmail.com (609.1ms)
+Date: Fri, 09 May 2014 22:47:01 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gmail.com
+Message-ID: <536d932581fc0_2823ff0b1f266d89378d@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fsadf,
+dfsaf,
+ajfjajajjajajjjjjjj,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 647ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 26ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (18.4ms)
+Completed 200 OK in 48ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:33 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:47:41 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"test", "email"=>"tttt", "content"=>"tttttt"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 20.1ms
+
+Sent mail to jarredszabadi@gmail.com (183.1ms)
+Date: Fri, 09 May 2014 22:47:41 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gmail.com
+Message-ID: <536d934dc3bde_2823ff0b0f478c093852@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+test,
+tttt,
+tttttt,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 206ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:47:41 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:47:42 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/help.html.erb within layouts/application (15.2ms)
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 26ms (Views: 24.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:47:49 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:49:07 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (4.7ms)
+  Rendered static_pages/help.html.erb within layouts/application (13.6ms)
+Completed 200 OK in 30ms (Views: 28.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:07 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:07 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:07 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:07 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:07 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/header-bg.png" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-09 22:49:08 -0400
+
+
+Started GET "/assets/ico_loading.gif" for 127.0.0.1 at 2014-05-09 22:49:09 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-09 22:49:09 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:09 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 22:49:18 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"jarred", "email"=>"jarred", "content"=>"jarred"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 25.7ms
+
+Sent mail to jarredszabadi@gmail.com (198.7ms)
+Date: Fri, 09 May 2014 22:49:18 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gmail.com
+Message-ID: <536d93ae9c69b_2823ff0b1cdf1cc9395b@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+jarred,
+jarred,
+jarred,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 228ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:49:18 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (8.3ms)
+  Rendered static_pages/help.html.erb within layouts/application (17.1ms)
+Completed 200 OK in 32ms (Views: 31.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 22:49:19 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 25ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 22:49:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 22:51:26 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.1ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 25ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (84.4ms)
+  Rendered static_pages/help.html.erb within layouts/application (175.4ms)
+Completed 200 OK in 327ms (Views: 295.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:25 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/header-bg.png" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started GET "/assets/ico_loading.gif" for 127.0.0.1 at 2014-05-09 23:03:26 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 23:03:32 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"as", "email"=>"fa", "content"=>"asfa"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.8ms)
+
+NotificationsMailer#new_message: processed outbound mail in 33.5ms
+
+Sent mail to jarredszabadi@gmail.com (3713.1ms)
+Date: Fri, 09 May 2014 23:03:32 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gmail.com
+Message-ID: <536d97044f52f_2d33ff6ccaacbb892813@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+as,
+fa,
+asfa,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 3757ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.3ms)
+  Rendered static_pages/help.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 26ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:03:36 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 23:04:15 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"faa", "email"=>"fasa", "content"=>"afafas"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 17.1ms
+
+Sent mail to jarredszabadi@gymtrack.com (3404.7ms)
+Date: Fri, 09 May 2014 23:04:15 -0400
+From: sazbatz@gmail.com
+To: jarredszabadi@gymtrack.com
+Message-ID: <536d972fce367_2d33ff6ccbd9d74929d8@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+faa,
+fasa,
+afafas,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 3446ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.7ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 26ms (Views: 25.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:04:19 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 23:06:43 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"fas", "email"=>"fasfaf", "content"=>"fdsafas"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 20.1ms
+
+Sent mail to sazbatz@gmail.com (2903.6ms)
+Date: Fri, 09 May 2014 23:06:43 -0400
+From: jarredszabadi@gymtack.com
+To: sazbatz@gmail.com
+Message-ID: <536d97c3a468a_2d33ff6cd42d958930e0@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+fas,
+fasfaf,
+fdsafas,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 2937ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (4.3ms)
+  Rendered static_pages/help.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 38ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:46 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:47 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:47 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:47 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:47 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:47 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:06:47 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 23:08:05 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"hyjuju", "email"=>"juyju", "content"=>"kyutkuy"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 44.2ms
+
+Sent mail to sazbatz@gmail.com (2743.8ms)
+Date: Fri, 09 May 2014 23:08:05 -0400
+From: jarredszabadi@gymtack.com
+To: sazbatz@gmail.com
+Message-ID: <536d981553d89_2d33ff6cd6df4e49312@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+hyjuju,
+juyju,
+kyutkuy,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 2792ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (2.9ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 26ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:08:08 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 23:09:18 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"gd", "email"=>"gdsfg", "content"=>"sdfgdgdhhy"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.1ms)
+
+NotificationsMailer#new_message: processed outbound mail in 33.3ms
+
+Sent mail to sazbatz@gmail.com (3070.8ms)
+Date: Fri, 09 May 2014 23:09:19 -0400
+From: jarredszabadi@gymtack.com
+To: sazbatz@gmail.com
+Message-ID: <536d985f8404_2d33ff6cc70953893278@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+gd,
+gdsfg,
+sdfgdgdhhy,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 3108ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/help.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 30ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:09:22 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (3.5ms)
+  Rendered static_pages/help.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 28ms (Views: 26.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:14 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:15 -0400
+
+
+Started POST "/contact" for 127.0.0.1 at 2014-05-09 23:10:20 -0400
+Processing by ContactController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"b+BdkJFZtxMyVJMFnPOmyeK6aT0UQL7BgEDUWRbJFWs=", "message"=>{"name"=>"ht", "email"=>"thh", "content"=>"th"}, "commit"=>"Send"}
+  Rendered notifications_mailer/new_message.text.erb (0.5ms)
+
+NotificationsMailer#new_message: processed outbound mail in 32.1ms
+
+Sent mail to sazbatz@gmail.com (2655.3ms)
+Date: Fri, 09 May 2014 23:10:20 -0400
+From: jarredszabadi@gymtack.com
+To: sazbatz@gmail.com
+Message-ID: <536d989cf0b7b_2d33ff6ccae4ab89338a@Szabadi.local.mail>
+Subject: Contact Request
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+ht,
+thh,
+th,
+
+Thank you for registering!
+
+
+Redirected to http://localhost:3000/
+Completed 302 Found in 2708ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/_contact.html.erb (7.3ms)
+  Rendered static_pages/help.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 41ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/main.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/normalize.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/help.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/_main.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/imagesloaded.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/jquery.easing.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/skrollr.ie.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/jquery.scrollsnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/jquery.scrollstop.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/jquery.panelSnap.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/modernizr-2.7.1.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/mobiledetect.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/skrollr.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/waypoints.min.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-09 23:10:23 -0400
+
+
+Started GET "/assets/gt_logo.png" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-09 23:10:24 -0400
