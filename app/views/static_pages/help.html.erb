@@ -25,7 +25,7 @@
 		<%= javascript_include_tag "imagesloaded" %>
 		<%= javascript_include_tag "modernizr-2.7.1.min" %>
 		
-		<script type="text/javascript">
+		<!--<script type="text/javascript">
 			function snapGT(snapEle){
 				var slideID = snapEle.attr("id");
 				$("#nav-ul > li > a").removeClass("active");
@@ -40,7 +40,7 @@
 					onSnap: snapGT
 				});
 			});
-		</script>
+		</script>-->
         <style type="text/css">
 			body {
 				font-family: 'Open Sans', sans-serif;
@@ -56,7 +56,7 @@
 			
 			<nav id="nav">
 				<ul id="nav-ul">
-					<li><a id="a-slide-1" href="#slide-1" class="active" title="Next Section">Home</a></li>
+					<li><a id="a-slide-1" href="#slide-1" title="Next Section">Home</a></li>
 					<li><a id="a-slide-2" href="#slide-2" title="Next Section">About</a></li>
 					<li><a id="a-slide-3" href="#slide-3" title="Next Section">The Team</a></li>
 					<li><a id="a-slide-4" href="#slide-4" title="Next Section">Contact Us</a></li>
@@ -198,13 +198,13 @@
 			</section>
 		    
 		</main>
-        <script type="text/javascript">				
+        <!--<script type="text/javascript">				
 			$("#nav-ul").on("click", "a", function(){
 				console.log("Clicked on a nav link");
 				$("#nav-ul > li > a").removeClass("active");
 				$(this).addClass("active");				
 			});
-		</script>	
+		</script>	-->
 		
 		<script type="text/javascript">
 		$(document).ready(function(){
