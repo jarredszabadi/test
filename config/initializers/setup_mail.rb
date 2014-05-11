@@ -1,13 +1,13 @@
 ActionMailer::Base.perform_deliveries = true
 ActionMailer::Base.delivery_method = :smtp
 ActionMailer::Base.smtp_settings = {
-  :address              => "smtp.gmail.com",
+  :address              => "smtp.netfirms.com",
   :port                 => 587,
-  :domain               => "gmail.com",
-  :user_name            => "sazbatz@gmail.com",
-  :password             => "secret",
+  :domain               => "gymtrackca.netfirms.com",
+  :user_name            => "jarredszabadi@gymtrack.ca",
+  :password             => "Pingpong123",
   :authentication       => "plain",
-  #:openssl_verify_mode  => 'none',
+  :openssl_verify_mode  => 'none',
   :enable_starttls_auto => false
 }
 

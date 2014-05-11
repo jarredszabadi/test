@@ -1,8 +1,8 @@
 class NotificationsMailer < ActionMailer::Base
-  default :from => "sazbatz@gmail.com"
+  default :from => "jarredszabadi@gymtrack.ca"
 
   def new_message(message)
   	@message = message
-    mail(:to => "jarredszabadi@gmail.com", :subject => "Contact Request")
+    mail(:to => "info@gymtrack.ca", :subject => "Contact Request")
   end
 end

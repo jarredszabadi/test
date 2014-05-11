@@ -1,12 +1,16 @@
 require File.expand_path('../boot', __FILE__)
 
 # Pick the frameworks you want:
-require "active_model/railtie"
-require "active_record/railtie"
-require "action_controller/railtie"
-require "action_mailer/railtie"
-require "action_view/railtie"
-require "sprockets/railtie"
+#jarred
+# require "active_model/railtie"
+# require "active_record/railtie"
+# require "action_controller/railtie"
+# require "action_mailer/railtie"
+# require "action_view/railtie"
+# require "sprockets/railtie"
+require 'rails/all'
+
+
 # require "rails/test_unit/railtie"
 
 # Require the gems listed in Gemfile, including any gems
@@ -26,6 +30,8 @@ module ParallaxHomepage
     # The default locale is :en and all translations from config/locales/*.rb,yml are auto loaded.
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     # config.i18n.default_locale = :de
+    
+    #jarred
     config.serve_static_assets = true
     config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif *.js *.css)
   end

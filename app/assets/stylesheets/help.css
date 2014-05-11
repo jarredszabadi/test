@@ -38,6 +38,33 @@ body {
 	font-family: Arial;
 }
 
+
+
+
+
+#submit {
+    background-color: #000000;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Arial';
+    font-size: 16px;
+    text-decoration: none;
+    cursor: poiner;
+    border:none;
+}
+
+
+
+#submit:hover {
+    color: #fff; opacity:1; border-bottom: 2px solid #fff; 
+    
+}
+
+
+
+
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection rule sets have to be separate.
