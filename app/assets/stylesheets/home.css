@@ -9,6 +9,7 @@ body {
   font-size: 1em;
   line-height: 1.4;
   font-family: Arial;
+  width: 100%;
 }
 /*
  * A better looking default horizontal rule
@@ -479,6 +480,16 @@ form{
     h2,
     h3 {
         page-break-after: avoid;
+    }
+    #about-us-text{
+      width:650px;
+      font-size:16px;
+      margin: auto;
+      background-color: rgba(0,0,0,0.5);
+      padding: 10px 5px;
+      line-height: 38px;
+      margin-bottom: 12px;
+      opacity: 1;
     }
 }
 
