@@ -2,8 +2,9 @@ Rails.application.routes.draw do
 
 
   
-  root	'static_pages#help'
+  get	'static_pages/help'
   get 	'static_pages/mobile'
+  root   'static_pages#home'
   match 'contact' => 'contact#new', via: :get
   match 'contact' => 'contact#create', via: :post
 
