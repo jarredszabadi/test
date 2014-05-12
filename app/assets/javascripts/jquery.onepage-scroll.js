@@ -217,11 +217,11 @@
           el.moveDown();
         });
         
-        // $(document).bind('mousewheel DOMMouseScroll', function(event) {
-        //   event.preventDefault();
-        //   var delta = event.originalEvent.wheelDelta || -event.originalEvent.detail;
-        //   init_scroll(event, delta);
-        // });
+        $(document).bind('mousewheel DOMMouseScroll', function(event) {
+          event.preventDefault();
+          var delta = event.originalEvent.wheelDelta || -event.originalEvent.detail;
+          init_scroll(event, delta);
+        });
       }
     }
     
