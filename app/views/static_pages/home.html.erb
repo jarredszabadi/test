@@ -13,6 +13,7 @@
 	<%= stylesheet_link_tag "home" %>
 	<%= stylesheet_link_tag "icon-font" %>
 	
+	
 	<%= javascript_include_tag "jquery-1.9.1.min" %>
 	<%= javascript_include_tag "jquery.onepage-scroll" %>
 
@@ -27,7 +28,7 @@
 			
 			
 			if (jQuery.browser.mobile == true){
-				mobileFallback = 20000;
+				mobileFallback = 600;
 				console.log("Mobile browser");
 			}
 			else{
@@ -54,11 +55,9 @@
       <section id="slide-1" gt-menu-icon="typicons-home">
         <div class="bcg" > 
           <div class="hsContainer">
-                     
-              <div id="slide-1-content">
-                <img src = "/assets/GymTrack-darkscale.png" :alt = "Placeholder">
+              <div id="slide-1-content"> 
+                <img src="/assets/GymTrack-darkscale.png" style="min-width:60%;height:auto;" alt = "Placeholder">
               </div> 
-            
           </div>  
   	    </div>
       </section>
