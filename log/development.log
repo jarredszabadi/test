@@ -107783,3 +107783,64 @@ Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 13:48:35 -0400
 
 
 Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 13:48:35 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 13:51:10 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (303.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (697.2ms)
+Completed 200 OK in 1008ms (Views: 957.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 13:51:12 -0400
