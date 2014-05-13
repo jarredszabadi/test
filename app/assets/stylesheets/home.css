@@ -118,9 +118,7 @@ header {
 }
 
 .hsContent {
-  /*margin: 0 auto 0 auto;*/
-  
-  opacity: 1.0;
+ 
 }
 .hsContent h2  {
   color: #fff8de;
@@ -163,7 +161,7 @@ width:100%;
 }
 
 
-/* Slide 1 */
+/* Slide 2 */
 #slide-2 .bcg {
   background-image:url('slide-2-bg.jpg')
 }
@@ -174,9 +172,7 @@ width:100%;
     text-align: center
 }
 #slide-2 h2 {
-  margin-top: 5px;
-  text-align: center;
-  padding-top:150px;
+  margin-top:90px;
 }
 
 #about-us-text{
@@ -194,16 +190,17 @@ width:100%;
 }
 
 
-/* Slide 1 */
+/* Slide 3 */
 #slide-3 .bcg {
   background-image:url('slide-3-bg.jpg')
+  
 }
 
 #slide-3 .hsContent {
   color: #ffffff;
 }
 #slide-3 h2 {
-  margin-top:105px;
+  margin-top:90px;
 }
 #slide-3-content{
   margin-top:0px;
@@ -226,7 +223,7 @@ font-size: small;
 }
 
 
-/* Slid4 1 */
+/* Slide 4*/
 #slide-4 .bcg {
   background-image:url('slide-4-bg.jpg')
 }
@@ -234,13 +231,19 @@ font-size: small;
 #slide-4 .hsContent {
 }
 #slide-4 h2 {
-  margin-top:105px;
+  margin-top:110px;
 }
 #slide-4-content{
-  margin-top:0px;
-  margin-bottom:0px;
+margin:0 auto 0 auto;
+width: 10px;
+display:table;
+white-space:nowrap;
 }
-
+.label-text{
+	display:inline-block;
+	vertical-align:top;
+	text-align:right !important;
+}
 /*slide 4 contact form modifications*/
 
 
@@ -249,14 +252,15 @@ font-size: small;
 }
 
 #slide-4-content label{
-  width:70px;
+  width:90px;
   display:inline-block;
   margin-right:5px;
   text-align: center;
+  margin-top:4px;
 }
 
-form{
-  width:50%; 
+form{/*
+  width:50%; */
   margin:0 auto;
   text-align:left;
   color: #ffffff;
@@ -278,6 +282,7 @@ form{
     text-decoration: none;
     cursor: poiner;
     border:none;
+	float:right;
 }
 
 
@@ -292,8 +297,8 @@ form{
   width: 100%;
 }
 
-#new_message{
-  max-width:450px;
+#new_message{/*
+  max-width:500px;*/
 }
 
 

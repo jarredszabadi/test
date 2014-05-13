@@ -107783,3 +107783,4300 @@ Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 13:48:35 -0400
 
 
 Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 13:48:35 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 13:50:49 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 13:50:50 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:27:26 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 44ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:27:27 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:38:08 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:38:09 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:40:44 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:40:44 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:40:44 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:40:44 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:40:44 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:40:44 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:40:45 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:41:23 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 46ms (Views: 45.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:41:24 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:42:15 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 44ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:42:16 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:43:23 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:43:23 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:43:23 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:43:23 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:43:23 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:43:23 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:43:24 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:55:56 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (19.0ms)
+Completed 200 OK in 49ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:55:56 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:55:56 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:55:56 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:55:56 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:55:56 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:55:57 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:56:38 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 40ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:38 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:38 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:56:38 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:38 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:56:38 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:39 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:56:44 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:56:44 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 17ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:44 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:44 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:56:44 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:56:44 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:44 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:45 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:56:54 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 44ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:56:55 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:57:09 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 42ms (Views: 42.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:57:09 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:57:09 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:57:09 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:57:09 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:57:09 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:57:14 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 14:57:24 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 40ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 14:57:24 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 14:57:24 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 14:57:24 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 14:57:24 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 14:57:24 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 14:57:25 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:06:49 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:06:49 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:06:49 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 15:06:49 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:06:49 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:06:49 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:06:50 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:13:44 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/typicons.min.css?body=1" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:13:45 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 35ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/fonts/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/fonts/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (3.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (52.0ms)
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/font/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/font/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.0ms)
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 28ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/font/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/font/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (48.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/font/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/font/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:20:51 -0400
+
+
+Started GET "/assets/" for 127.0.0.1 at 2014-05-13 15:24:15 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 17ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:24:41 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:42 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (4.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:24:49 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 22ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:03 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:25:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:34:18 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 9ms
+
+SyntaxError (C:/Users/Tristan M-H/Documents/GitHub/parallax_homepage/app/views/static_pages/_contact.html.erb:6: syntax error, unexpected '<'
+        <%= form.text_field :name );@output_buffer.safe_append='
+         ^
+C:/Users/Tristan M-H/Documents/GitHub/parallax_homepage/app/views/static_pages/_contact.html.erb:23: syntax error, unexpected keyword_end, expecting ')'
+...er.safe_append='  '.freeze; end ;@output_buffer.to_s
+...                               ^
+C:/Users/Tristan M-H/Documents/GitHub/parallax_homepage/app/views/static_pages/_contact.html.erb:24: syntax error, unexpected keyword_ensure, expecting ')'
+C:/Users/Tristan M-H/Documents/GitHub/parallax_homepage/app/views/static_pages/_contact.html.erb:26: syntax error, unexpected keyword_end, expecting ')'):
+  app/views/static_pages/home.html.erb:144:in `_app_views_static_pages_home_html_erb___273149142_27159792'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (49.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:34:33 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (6.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:34:33 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:34:33 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:34:33 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:34:33 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:34:33 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (18.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (46.0ms)
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:34:34 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (4.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 26ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:36:46 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 63ms (Views: 63.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:18 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 48ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (38.0ms)
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:41:33 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:42:09 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 40ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:42:09 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:42:09 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:42:09 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:42:09 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:42:09 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.0ms)
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:10 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:42:33 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:44:01 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:44:01 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:02 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:44:10 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 62ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:11 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 62ms (Views: 61.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:44:33 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 44ms (Views: 43.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:45:21 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:46:37 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (29.0ms)
+Completed 200 OK in 57ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:46:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:47:40 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (4.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 56ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:47:41 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 45ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.0ms)
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:03 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:48:39 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:48:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 23ms (Views: 23.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:50:41 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:51:19 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (1.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 48ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:51:19 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:51:19 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:51:19 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:51:19 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:51:19 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (29.0ms)
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:51:20 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 19ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.0ms)
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:52:21 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:53:21 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (4.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 20ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:53:21 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:53:21 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:53:21 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:53:21 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:53:21 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:53:22 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 63ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (32.0ms)
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:54:38 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:55:03 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 68ms (Views: 67.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:55:03 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:55:03 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:55:03 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:55:03 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:55:03 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:55:03 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (32.0ms)
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:55:04 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:59:41 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 41ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.0ms)
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:42 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 15:59:50 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 63ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (18.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (47.0ms)
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 15:59:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 61ms (Views: 40.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 16:00:25 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 16:00:26 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 16:01:23 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (3.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (16.0ms)
+Completed 200 OK in 46ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 16:01:23 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 16:01:23 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 16:01:23 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 16:01:23 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 16:01:23 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (31.0ms)
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 16:01:24 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-13 16:10:06 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 127.0.0.1 at 2014-05-13 16:10:06 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-05-13 16:10:06 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 127.0.0.1 at 2014-05-13 16:10:06 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 127.0.0.1 at 2014-05-13 16:10:06 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 127.0.0.1 at 2014-05-13 16:10:06 -0400
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 16:10:06 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (30.0ms)
+
+
+Started GET "/assets/typicons.min.css" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+ActionController::RoutingError (No route matches [GET] "/assets/typicons.min.css"):
+  actionpack (4.1.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.0) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.0) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.0) lib/rails/engine.rb:514:in `call'
+  railties (4.1.0) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  C:/Ruby200/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered C:/Ruby200/lib/ruby/gems/2.0.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (32.0ms)
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 127.0.0.1 at 2014-05-13 16:10:07 -0400

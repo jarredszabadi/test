@@ -1,20 +1,16 @@
 <% @message ||= Message.new %>
 <%= form_for @message, :url => contact_path do |form| %>
   <fieldset class="fields">
-     <div class="field widthLimit">
-        <%= form.label "Name:" %>
+
+        <%= form.label "Name:", :id=>"name-label", :class =>"label-text"%>
         <%= form.text_field :name %>
-     </div>
-
-     <div class="field widthLimit">
-        <%= form.label "Email: " %>
+		<br/>
+        <%= form.label "E-mail: ", :id=>"email-label", :class =>"label-text" %>
         <%= form.text_field :email, :required => true %>
-     </div>
-
-     <div class="field widthLimit">
-        <%= form.label "Message:" %>
+		<br/>
+        <%= form.label "Message:", :id=>"msg-label", :class =>"label-text" %>
         <%= form.text_area :content, :size =>"45x7" %>
-     </div>
+		<br/>
   </fieldset>
 
   <fieldset class="actions widthLimit">
