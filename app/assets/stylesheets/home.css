@@ -114,6 +114,7 @@ header {
   overflow: hidden;
   text-align:center;
   position: relative;
+  display:table;
 }
 
 .hsContent {
@@ -142,27 +143,25 @@ header {
 /* Slide 1 */
 #slide-1 .bcg {
   background-image:url('slide-1-bg.jpg')
+
+}
+#slide-1-content{
+height: 100%;
+width:100%;
+	display:table-cell;
+	vertical-align:middle;
+}
+#slide-1-content img{
+	width:70%;
+	height:auto;
+	margin: 0 auto 0 auto;
 }
 
-#slide-1-content img{
-  position: absolute;
-  top: 0; bottom:0; left: 0; right:0;
-  margin: auto;
-  width: 50%;
-  height: 50%;
-  min-width: 200px;
-  min-height: 112px;
-  
-}
 #slide-1 .hsContent {
   padding-top:50px;
   text-align:center
 }
 
-.splash-logo{
-min-width:60%;height:auto;
-display:block;
-}
 
 /* Slide 1 */
 #slide-2 .bcg {
