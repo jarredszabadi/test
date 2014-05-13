@@ -150,8 +150,8 @@ header {
   margin: auto;
   width: 50%;
   height: 50%;
-  min-width: 40px;
-  min-height: 225px;
+  min-width: 200px;
+  min-height: 112px;
   
 }
 #slide-1 .hsContent {
@@ -161,6 +161,7 @@ header {
 
 .splash-logo{
 min-width:60%;height:auto;
+display:block;
 }
 
 /* Slide 1 */
