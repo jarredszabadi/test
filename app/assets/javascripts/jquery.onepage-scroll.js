@@ -106,6 +106,7 @@
         if (typeof settings.afterMove == 'function') settings.afterMove(index);
       });
     }
+	
     
     $.fn.moveDown = function() {
       var el = $(this)
