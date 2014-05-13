@@ -250,7 +250,8 @@
       $(this).addClass("ops-section").attr("data-index", i+1);
       topPos = topPos + 100;
       if(settings.pagination == true) {
-        paginationList += "<li><a data-index='"+(i+1)+"' href='#" + (i+1) + "'></a></li>"
+		var icon=$(this).attr("gt-menu-icon");
+        paginationList += "<li><a data-index='"+(i+1)+"' href='#" + (i+1) + "'><span class='"+icon+"'></span></a></li>"
       }
     });
     
