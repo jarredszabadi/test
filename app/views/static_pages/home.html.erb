@@ -4,11 +4,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>GymTrack</title>
 	<meta name="description" content="">
-<!--	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Pacifico:400' rel='stylesheet' type='text/css'>
-
-  
  -->
 	<%= stylesheet_link_tag "onepage-scroll" %>
 	<%= stylesheet_link_tag "home" %>
@@ -17,10 +16,9 @@
 	
 	<%= javascript_include_tag "jquery-1.9.1.min" %>
 	<%= javascript_include_tag "jquery.onepage-scroll" %>
-	<link rel="stylesheet" type="text/css" href="/assets/typicons.min.css">
+	<!--
+	<link rel="stylesheet" type="text/css" href="/assets/typicons.min.css"> -->
   
-
-
 	<script>
 	  $(document).ready(function(){
 			var mobileFallback;
@@ -52,96 +50,97 @@
 
 
 	  <div class="main">		
-      <section id="slide-1" gt-menu-icon="typicons-home">
-        <div class="bcg" > 
-          <div class="hsContainer">
-              <div id="slide-1-content"> 
-                <img src="/assets/GymTrack-darkscale.png" alt = "Placeholder">
-              </div> 
-          </div>  
-  	    </div>
-      </section>
+		<section id="slide-1" gt-menu-icon="typicons-home">
+		<div class="bcg"> 
+			<div class="hsContainer">
+				<div id="slide-1-content"> 
+					<img src="/assets/GymTrack-darkscale.png" alt = "GymTrack">
+				</div> 
+			</div>  
+		</div>
+		</section>
 	    
-	    <section id="slide-2" gt-menu-icon="typicons-unknown">
-        <div class="bcg" >
-          <div class="hsContainer">
-            <div class="hsContent" >
-              <h2>About Us</h2>
-              <div id="slide-2-content" style="opacity:1">
-                <p id="about-us-text">Gymtrack is a tech startup from Ottawa that builds smart, aftermarket gym equipment for fitness facilities. By retrofitting existing equipment with gymtrack, fitness facilities allow their users to automatically track their workouts and receive auditory personal training feedback in real-time through their smartphones. Gym members can use our app or website to see their progress and challenge other gym users, while fitness facilities get access to data about their gym members that they've never had access to before.</p>
-              </div>
-            </div>            
-          </div>
-	      </div>
-      </section>
+		<section id="slide-2" gt-menu-icon="typicons-unknown">
+		<div class="bcg" >
+			<div class="hsContainer">
+				<div class="hsContent">
+					<h2>About Us</h2>
+					<div id="slide-2-content">
+						<p id="about-us-text">Gymtrack is a tech startup from Ottawa that builds smart, aftermarket gym equipment for fitness facilities. By retrofitting existing equipment with gymtrack, fitness facilities allow their users to automatically track their workouts and receive auditory personal training feedback in real-time through their smartphones. Gym members can use our app or website to see their progress and challenge other gym users, while fitness facilities get access to data about their gym members that they've never had access to before.
+						</p>
+					</div>
+				</div>            
+			</div>
+		</div>
+		</section>
 	    
-	    <section id="slide-3" gt-menu-icon="typicons-group">
-        <div class="bcg" >
-            <div class="hsContainer">
-            <div class="hsContent" >
-              <h2>Meet The Team</h2>
-              <div id="slide-3-content">
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/lee-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon" >
-                <span class="our-team-name">Lee Silverstone</span>
-                <span class="our-team-title">Co-CEO</span>
-                </div>
-                
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/pablo-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon" >
-                <span class="our-team-name">Pablo Srugo</span>
-                <span class="our-team-title">Co-CEO</span>
-                </div>
-                
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/jarred-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon" >
-                <span class="our-team-name">Jarred Szabadi</span>
-                <span class="our-team-title">Lead Mobile/Web Developer</span>
-                </div>
-                
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/aaron-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon" >
-                <span class="our-team-name">Aaron Ramsey</span>
-                <span class="our-team-title">Hardware Engineer</span>
-                </div>
+		<section id="slide-3" gt-menu-icon="typicons-group">
+		<div class="bcg" >
+			<div class="hsContainer">
+				<div class="hsContent" >
+					<h2>Meet The Team</h2>
+					<div id="slide-3-content">					
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/lee-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Lee Silverstone</span>
+							<span class="our-team-title">Co-CEO</span>
+						</div>
 
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/corey-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon">
-                <span class="our-team-name">Corey Yanofsky</span>
-                <span class="our-team-title">Data Scientist</span>
-                </div>
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/pablo-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Pablo Srugo</span>
+							<span class="our-team-title">Co-CEO</span>
+						</div>
 
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/ron-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon">
-                <span class="our-team-name">Ron Clough</span>
-                <span class="our-team-title">Hardware Engineer</span>
-                </div>
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/jarred-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Jarred Szabadi</span>
+							<span class="our-team-title">Lead Mobile/Web Developer</span>
+						</div>
 
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/tristan-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon">
-                <span class="our-team-name">Tristan Marquis-Huer</span>
-                <span class="our-team-title">Software Developer</span>
-                </div>
-                
-                <div class="our-team-portrait">
-                <img src = "/assets/headshots/kelly-headshot-icon.jpg", :alt = "Placeholder", :class ="our-team-icon">
-                <span class="our-team-name">Kelly Seay</span>
-                <span class="our-team-title">UI/UX Designer</span>
-                </div>
-              </div>
-              </div>
-            </div>
-  	    </div>
-      </section>
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/aaron-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Aaron Ramsey</span>
+							<span class="our-team-title">Hardware Engineer</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/corey-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Corey Yanofsky</span>
+							<span class="our-team-title">Data Scientist</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/ron-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Ron Clough</span>
+							<span class="our-team-title">Hardware Engineer</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/tristan-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Tristan Marquis-Huer</span>
+							<span class="our-team-title">Software Developer</span>
+							</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/kelly-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Kelly Seay</span>
+							<span class="our-team-title">UI/UX Designer</span>
+						</div>					
+					</div>
+				</div>
+			</div>
+		</div>
+		</section>
 
       <section id="slide-4" gt-menu-icon="typicons-mail">
         <div class="bcg" >
           <div class="hsContainer">
             <div class="hsContent" >
-                <h2>Contact Us</h2>
-                <div id="slide-4-content">
-                  <%= render "contact" %>
-                </div>
+				<h2>Contact Us</h2>
+				<div id="slide-4-content">
+					<%= render "contact" %>
+				</div>
               </div>
             </div>
         </div>

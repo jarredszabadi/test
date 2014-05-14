@@ -3,13 +3,13 @@
   <fieldset class="fields">
 
         <%= form.label "Name:", :id=>"name-label", :class =>"label-text"%>
-        <%= form.text_field :name %>
+        <%= form.text_field :name, :placeholder=>"Name here" %>
 		<br/>
         <%= form.label "E-mail: ", :id=>"email-label", :class =>"label-text" %>
-        <%= form.text_field :email, :required => true %>
+        <%= form.text_field :email, :required => true, :placeholder=>"E-mail here"  %>
 		<br/>
         <%= form.label "Message:", :id=>"msg-label", :class =>"label-text" %>
-        <%= form.text_area :content, :size =>"45x7" %>
+        <%= form.text_area :content, :size =>"45x7", :placeholder=>"Type message here" %>
 		<br/>
   </fieldset>
 
