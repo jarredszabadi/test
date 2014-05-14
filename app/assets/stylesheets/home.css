@@ -6,10 +6,10 @@ textarea {
     color: #000000;
 }
 body {
-  font-size: 1em;
-  line-height: 1.4;
-  font-family: Arial;
-  width: 100%;
+	font-size: 1em;
+	line-height: 1.4;
+	font-family: Arial;
+	width: 100%;
 }
 /*
  * A better looking default horizontal rule
@@ -47,8 +47,7 @@ fieldset {
  */
 
 textarea {
-    resize: vertical;
-	max-width:100%;
+
 }
 
 .chromeframe {
@@ -62,14 +61,14 @@ textarea {
    Parallax Scroll
    ========================================================================== */
 body, html {
-  height: 100%;
-  min-height: 100%;
-  background-color: #000000;
+	height: 100%;
+	min-height: 100%;
+	background-color: #000000;
 }
 
 header {
-  position: relative;
-  z-index: 10;
+	position: relative;
+	z-index: 10;
 }
 
 .no-js {
@@ -121,30 +120,30 @@ header {
 }
 
 .hsContent h2  {
-  color: #fff8de;
-  background-color: rgba(0,0,0,0.5);/*
-  padding: 10px 5px;*/
-  font-size: 35px;
-  line-height: 38px;/*
-  margin-bottom: 12px;*/
+	color: #fff8de;
+	background-color: rgba(0,0,0,0.5);/*
+	padding: 10px 5px;*/
+	font-size: 35px;
+	line-height: 38px;/*
+	margin-bottom: 12px;*/
+	margin-top:20px;
 }
 .hsContent p {
-  width: 100%;
-  color: #b2b2b2;
+	width: 100%;
+	color: #b2b2b2;
 }
 .hsContent a {
-  color: #b2b2b2;
-  text-decoration: underline;
+	color: #b2b2b2;
+	text-decoration: underline;
 }
 
 /* Slide 1 */
 #slide-1 .bcg {
-  background-image:url('slide-1-bg.jpg')
-
+	background-image:url('slide-1-bg.jpg');
 }
 #slide-1-content{
-height: 100%;
-width:100%;
+	height: 100%;
+	width:100%;
 	display:table-cell;
 	vertical-align:middle;
 }
@@ -155,14 +154,14 @@ width:100%;
 }
 
 #slide-1 .hsContent {
-  padding-top:50px;
-  text-align:center
+	padding-top:50px;
+	text-align:center
 }
 
 
 /* Slide 2 */
 #slide-2 .bcg {
-  background-image:url('slide-2-bg.jpg')
+	background-image:url('slide-2-bg.jpg');
 }
 
 #slide-2 .hsContent {
@@ -171,23 +170,23 @@ width:100%;
     text-align: center
 }
 #slide-2 h2 {
-  margin-top:90px;
+
 }
 
 #about-us-text{
-  width:100%;
-  font-size:25px;
-  margin: auto;
-  background-color: rgba(0,0,0,0.5);
-  padding: 10px 5px;
-  line-height: 38px;
-  margin-bottom: 12px;
-  opacity: 1;
+	width:100%;
+	font-size:25px;
+	margin: auto;
+	background-color: rgba(0,0,0,0.5);
+	padding: 10px 5px;
+	line-height: 38px;
+	margin-bottom: 12px;
 }
+
 #slide-2-content{
-  text-align:center;  
-  max-width: 768px;
-  margin: 0 auto;
+	text-align:center;  
+	max-width: 768px;
+	margin: 0 auto;
 }
 
 
@@ -198,15 +197,18 @@ width:100%;
 }
 
 #slide-3 .hsContent {
-  color: #ffffff;
+	color: #ffffff;
 }
+
 #slide-3 h2 {
-  margin-top:90px;
+
 }
+
 #slide-3-content{
-  margin-top:0px;
-  margin-bottom:0px;
+	margin-top:0px;
+	margin-bottom:0px;
 }
+
 .our-team-portrait{
   display:inline-block;
   width:200px;
@@ -214,18 +216,19 @@ width:100%;
   max-width: 200px;
   margin:2px;
 }
+
 .our-team-icon{
   border: 0px solid white;
   border-radius:50%;
 }
 
 .our-team-name{
-display:block;
+	display:block;
 }
 
 .our-team-title{
-display: block;
-font-size: small;
+	display: block;
+	font-size: small;
 }
 
 
@@ -238,8 +241,9 @@ font-size: small;
 }
 
 #slide-4 h2 {
-	margin-top:110px;
+
 }
+
 #slide-4-content{
 	margin:0 auto 0 auto;
 	width: 10px;
@@ -258,7 +262,7 @@ font-size: small;
 
 
 #message_content{
-  resize:none;
+	resize:none;
 }
 
 form{/*
@@ -267,12 +271,15 @@ form{/*
   text-align:left;
   color: #ffffff;
 }
+
 .text_field{
   color: black;
 }
+
 .text_area{
   color: black;
 }
+
 #submit {
     background-color: #ff0000;
     -moz-border-radius: 5px;
@@ -287,8 +294,6 @@ form{/*
 	float:right;
 }
 
-
-
 #submit:hover {
     color: #fff; opacity:1; border-bottom: 2px solid #fff; 
     
@@ -302,9 +307,6 @@ form{/*
 #new_message{/*
   max-width:500px;*/
 }
-
-
-
 
 /* ==========================================================================
    Helper classes
