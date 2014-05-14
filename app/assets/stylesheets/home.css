@@ -48,6 +48,7 @@ fieldset {
 
 textarea {
     resize: vertical;
+	max-width:100%;
 }
 
 .chromeframe {
