@@ -43,7 +43,7 @@ body, html{
 
 #slide-4 .hsContainer{
 	display:table-cell;
-	vertical-align:middle;
+	vertical-align:top;
 }
 
 #message_content{
@@ -52,13 +52,13 @@ body, html{
 }
 
 #slide-4 .hsContent h2 {
-	position:absolute;
 	top:10px;
 	width:100%;
 }
 
 #slide-4 .hsContent{
 	text-align:center;
+	height: 100%;
 }
 
 #slide-4-content{
@@ -73,11 +73,11 @@ body, html{
 
 #submit, .contact-input{
 	max-width: 450px;
+	margin: 5px 0 5px 0;
 }
 
 .contact-input{
 	width:100%;
-	margin: 5px 0 5px 0;
 }
 
 #submit{
