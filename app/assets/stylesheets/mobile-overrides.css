@@ -18,15 +18,19 @@ body, html{
 	height:auto;
 }
 
-#slide-1-content, #slide-1, #slide-4, #slide-4-content{
+#slide-1-content, #slide-1{
 	height: 100%;
 	width:	100%;
+}
+#slide-4, #slide-4-content{
+	width: 100%;
 }
 
 #slide-1 .bcg{
 	height:100%;
 	display:table;
 }
+
 #slide-1 .hsContainer{
 	display:table-cell;
 	vertical-align:middle;
@@ -37,8 +41,8 @@ body, html{
 }
 
 #slide-4 .bcg{
-	height:100%;
 	display:table;
+	height: auto;
 }
 
 #slide-4 .hsContainer{
@@ -58,7 +62,6 @@ body, html{
 
 #slide-4 .hsContent{
 	text-align:center;
-	height: 100%;
 }
 
 #slide-4-content{
