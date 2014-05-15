@@ -8610,3 +8610,67 @@ Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 10.1.24.64 at 2014-0
 
 
 Started GET "/assets/headshots/ron-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:33:01 -0400
+
+
+Started GET "/" for 10.1.24.64 at 2014-05-15 14:36:17 -0400
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/_contact.html.erb (2.0ms)
+  Rendered static_pages/home.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 53ms (Views: 52.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/onepage-scroll.css?body=1" for 10.1.24.64 at 2014-05-15 14:36:18 -0400
+
+
+Started GET "/assets/icon-font.css?body=1" for 10.1.24.64 at 2014-05-15 14:36:18 -0400
+
+
+Started GET "/assets/home.css?body=1" for 10.1.24.64 at 2014-05-15 14:36:18 -0400
+
+
+Started GET "/assets/jquery-1.9.1.min.js?body=1" for 10.1.24.64 at 2014-05-15 14:36:18 -0400
+
+
+Started GET "/assets/jquery.onepage-scroll.js?body=1" for 10.1.24.64 at 2014-05-15 14:36:18 -0400
+
+
+Started GET "/assets/GymTrack-darkscale.png" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/jarred-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/pablo-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/corey-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/lee-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/aaron-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/ron-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/kelly-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/headshots/tristan-headshot-icon.jpg" for 10.1.24.64 at 2014-05-15 14:36:19 -0400
+
+
+Started GET "/assets/mobile-overrides.css" for 10.1.24.64 at 2014-05-15 14:36:20 -0400
+
+
+Started GET "/assets/slide-3-bg.jpg" for 10.1.24.64 at 2014-05-15 14:36:20 -0400
+
+
+Started GET "/assets/slide-2-bg.jpg" for 10.1.24.64 at 2014-05-15 14:36:20 -0400
+
+
+Started GET "/assets/slide-1-bg.jpg" for 10.1.24.64 at 2014-05-15 14:36:20 -0400
+
+
+Started GET "/assets/slide-4-bg.jpg" for 10.1.24.64 at 2014-05-15 14:36:20 -0400
