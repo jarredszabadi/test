@@ -27,6 +27,9 @@ gem 'jquery-rails'
 gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
+#Keep heroku app alive during downtime
+gem 'newrelic_rpm'
+
 
 
 group :doc do
