@@ -20,6 +20,7 @@ body, html{
 
 #slide-1-content, #slide-1, #slide-4, #slide-4-content{
 	height: 100%;
+	width:	100%;
 }
 
 #slide-1 .bcg{
@@ -46,6 +47,41 @@ body, html{
 }
 
 #slide-4 .hsContent h2 {
-	position:fixed;
-	top:20px;
+	position:absolute;
+	top:10px;
+	width:100%;
+}
+
+#slide-4 .hsContent{
+	text-align:center;
+}
+
+#slide-4-content{
+	width:90%;
+	margin: 0 5% 0 5%;
+}
+
+.label-text{
+	display:none;
+}
+
+
+#submit, .contact-input{
+	max-width: 450px;
+}
+
+.contact-input{
+	width:100%;
+	margin: 5px 0 5px 0;
+}
+
+#submit{
+	width:100%;
+	float: inherit;
+	margin:0;
+	padding:0;
+}
+
+#new_message{	
+	display:inline-block;
 }

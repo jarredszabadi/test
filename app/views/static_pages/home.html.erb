@@ -15,8 +15,9 @@
 	
 	<%= javascript_include_tag "jquery-1.9.1.min" %>
 	<%= javascript_include_tag "jquery.onepage-scroll" %>
-	<%= stylesheet_link_tag "mobile-overrides" %>
 
+
+	<%= stylesheet_link_tag "mobile-overrides" %>
   
 	<script>
 	  $(document).ready(function(){
@@ -131,18 +132,17 @@
 		</div>
 		</section>
 
-      <section id="slide-4" gt-menu-icon="typicons-mail">
-        <div class="bcg" >
-          <div class="hsContainer">
-            <div class="hsContent" >
-				<h2>Contact Us</h2>
-				<div id="slide-4-content">
-					<%= render "contact" %>
+		<section id="slide-4" gt-menu-icon="typicons-mail">
+			<div class="bcg" >
+				<div class="hsContainer">
+					<div class="hsContent" >
+						<h2>Contact Us</h2>
+						<div id="slide-4-content">
+							<%= render "contact" %>
+						</div>
+					</div>
 				</div>
-              </div>
-            </div>
-        </div>
-      </section>
-    </div>
-
+			</div>
+		</section>
+	</div>
 </body>

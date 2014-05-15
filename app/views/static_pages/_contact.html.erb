@@ -3,17 +3,17 @@
   <fieldset class="fields">
 
         <%= form.label "Name:", :id=>"name-label", :class =>"label-text"%>
-        <%= form.text_field :name, :placeholder=>"Name here" %>
+        <%= form.text_field :name, :placeholder=>"Name here", :class=>"contact-input" %>
 		<br/>
         <%= form.label "E-mail: ", :id=>"email-label", :class =>"label-text" %>
-        <%= form.text_field :email, :required => true, :placeholder=>"E-mail here"  %>
+        <%= form.text_field :email, :required => true, :placeholder=>"E-mail here", :class=>"contact-input"   %>
 		<br/>
         <%= form.label "Message:", :id=>"msg-label", :class =>"label-text" %>
-        <%= form.text_area :content, :size =>"45x7", :placeholder=>"Type message here" %>
+        <%= form.text_area :content, :size =>"45x7", :placeholder=>"Type message here", :class=>"contact-input"  %>
 		<br/>
-  </fieldset>
+<!--  </fieldset>
 
-  <fieldset class="actions widthLimit">
+  <fieldset class="actions widthLimit"> -->
      <%= form.submit "Send", :id => "submit" %>
   </fieldset>
   <% end %>
