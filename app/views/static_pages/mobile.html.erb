@@ -1,54 +1,127 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>GymTrack | Coming Soon!</title>
-        <meta name="description" content="">
-        <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />-->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-        <%= stylesheet_link_tag "normalize" %>
-        <%= stylesheet_link_tag "help" %>
-		
-		<%= javascript_include_tag "jquery-1.9.1.min" %>
-		
-        <style type="text/css">
-			body {
-				font-family: 'Open Sans', sans-serif;
-			}
-		</style>
-		
-    </head>
-    <body class="loading">
-		
-    	<header id="header">
-			<div id="nav-header" class="content">
-			<img id="logo" src="/assets/gt_logo.png"/>
-			
+	<% content_for :head do %>
+  <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>GymTrack</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<!--
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Pacifico:400' rel='stylesheet' type='text/css'>
+ -->
+ 
+	<%= stylesheet_link_tag "home" %>
+	<%= stylesheet_link_tag "icon-font" %>
+	
+	<%= javascript_include_tag "jquery-1.9.1.min" %>
+	<%= stylesheet_link_tag "mobile-overrides" %>
+	<script>
+	  $(document).ready(function(){
+
+		});
+	</script>
+	<% end %>
+
+<body>
+
+
+
+	  <div class="main">		
+		<section id="slide-1" gt-menu-icon="typicons-home">
+		<div class="bcg"> 
+			<div class="hsContainer">
+				<div id="slide-1-content"> 
+					<img src="/assets/GymTrack-darkscale.png" alt = "GymTrack">
+				</div> 
+			</div>  
+		</div>
+		</section>
+	    
+		<section id="slide-2" gt-menu-icon="typicons-unknown">
+		<div class="bcg" >
+			<div class="hsContainer">
+				<div class="hsContent">
+					<h2>About Us</h2>
+					<div id="slide-2-content">
+						<p id="about-us-text">Gymtrack is a tech startup from Ottawa that builds smart, aftermarket gym equipment for fitness facilities. By retrofitting existing equipment with gymtrack, fitness facilities allow their users to automatically track their workouts and receive auditory personal training feedback in real-time through their smartphones. Gym members can use our app or website to see their progress and challenge other gym users, while fitness facilities get access to data about their gym members that they've never had access to before.
+						</p>
+					</div>
+				</div>            
 			</div>
-		</header>	
-		  
-       	<main>
-	        <section id="slide-1" class="homeSlide snap">
-	        	<div id="bcg-slide-1" class="bcg" 
-	        		data-center="background-position: 50% 0px;" 
-	        		data-top-bottom="background-position: 50% 0px;" 
-	        		data-anchor-target="#slide-1">
-		        	<div class="hsContainer">
-			    		<div class="hsContent">
-							
-							<div id="slide-1-content">
-								GymTrack works best on desktop browsers.
-							</div>							
-			    		</div>						
-		        	</div>
-	        	</div>
-		    </section>
-		</main>		
-    </body>
-</html>
+		</div>
+		</section>
+	    
+		<section id="slide-3" gt-menu-icon="typicons-group">
+		<div class="bcg" >
+			<div class="hsContainer">
+				<div class="hsContent" >
+					<h2>Meet The Team</h2>
+					<div id="slide-3-content">					
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/lee-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Lee Silverstone</span>
+							<span class="our-team-title">Co-CEO</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/pablo-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Pablo Srugo</span>
+							<span class="our-team-title">Co-CEO</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/jarred-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Jarred Szabadi</span>
+							<span class="our-team-title">Lead Software Developer</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/corey-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Corey Yanofsky</span>
+							<span class="our-team-title">Data Scientist</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/aaron-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
+							<span class="our-team-name">Aaron Ramsey</span>
+							<span class="our-team-title">Hardware Engineer</span>
+						</div>
+						
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/ron-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Ron Clough</span>
+							<span class="our-team-title">Hardware Engineer</span>
+						</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/tristan-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Tristan Marquis-Huer</span>
+							<span class="our-team-title">Software Developer</span>
+							</div>
+
+						<div class="our-team-portrait">
+							<img src = "/assets/headshots/kelly-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
+							<span class="our-team-name">Kelly Seay</span>
+							<span class="our-team-title">UI/UX Designer</span>
+						</div>					
+					</div>
+				</div>
+			</div>
+		</div>
+		</section>
+
+      <section id="slide-4" gt-menu-icon="typicons-mail">
+        <div class="bcg" >
+          <div class="hsContainer">
+            <div class="hsContent" >
+				<h2>Contact Us</h2>
+				<div id="slide-4-content">
+					<%= render "contact" %>
+				</div>
+              </div>
+            </div>
+        </div>
+      </section>
+    </div>
+
+</body>
