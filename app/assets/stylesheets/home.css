@@ -285,8 +285,8 @@ form{/*
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius:6px;
-    color: #fff;
-    font-family: 'Arial';
+    color: #fff;/*
+    font-family: 'Arial';*/
     font-size: 16px;
     text-decoration: none;
     cursor: poiner;

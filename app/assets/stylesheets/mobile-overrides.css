@@ -27,13 +27,18 @@ body, html{
 	height:100%;
 	display:table;
 }
-#slide-4 .bcg{
-	height:100%;
-	display:table;
-}
 #slide-1 .hsContainer{
 	display:table-cell;
 	vertical-align:middle;
+}
+
+#slide-2-content{
+	text-align:left;
+}
+
+#slide-4 .bcg{
+	height:100%;
+	display:table;
 }
 
 #slide-4 .hsContainer{
@@ -76,12 +81,24 @@ body, html{
 }
 
 #submit{
-	width:100%;
+	max-width:75%;
+	width: 60%;
 	float: inherit;
-	margin:0;
-	padding:0;
+	margin:0 auto 0 auto;
+	padding:3px;
+	margin-top:15px;
+	
 }
 
 #new_message{	
 	display:inline-block;
+	text-align: center;
+}
+
+#about-us-text{
+	font-size: large;
+}
+
+.our-team-portrait{
+	width: 45%;
 }
