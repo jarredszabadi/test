@@ -268,6 +268,7 @@ header {
 
 .contact-input{
 	min-width: 200px;
+	border-style:inset;
 }
 
 .label-text{
