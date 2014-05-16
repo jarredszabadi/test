@@ -8,8 +8,13 @@ textarea {
 body {
 	font-size: 1em;
 	line-height: 1.4;
-	font-family: Arial;
+	font-family: 'Open Sans', sans-serif;
 	width: 100%;
+}
+h2{
+	font-family: 'Archivo Narrow', sans-serif;
+	text-transform: uppercase;
+	font-style: italic;
 }
 /*
  * A better looking default horizontal rule
@@ -211,15 +216,19 @@ header {
 
 .our-team-portrait{
   display:inline-block;
-  width:200px;
+  width:220px;
   text-align:center;
   max-width: 200px;
   margin:2px;
+  overflow:hidden;
+  white-space:nowrap;
+  
 }
 
 .our-team-icon{
   border: 0px solid white;
   border-radius:50%;
+  
 }
 
 .our-team-name{
