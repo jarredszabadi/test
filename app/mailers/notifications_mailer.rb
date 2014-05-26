@@ -3,6 +3,6 @@ class NotificationsMailer < ActionMailer::Base
 
   def new_message(message)
   	@message = message
-    mail(:to => "info@gymtrack.ca", :subject => "Contact Request")
+    mail(:to => "info@gymtrack.ca", :subject => "Contact Us Message")
   end
 end
