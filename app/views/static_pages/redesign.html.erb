@@ -1,0 +1,203 @@
+<% content_for :head do %>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>GymTrack</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<!--<link href='http://fonts.googleapis.com/css?family=Archivo+Narrow' rel='stylesheet' type='text/css'>
+<!--<link href='http://fonts.googleapis.com/css?family=Pacifico:400' rel='stylesheet' type='text/css'>
+-->
+<%= stylesheet_link_tag "onepage-scroll" %>
+<%= stylesheet_link_tag "redesign" %>
+<%= stylesheet_link_tag "icon-font" %>
+<%= stylesheet_link_tag "grid"%>
+
+<%= javascript_include_tag "jquery-1.9.1.min" %>
+<%= javascript_include_tag "jquery.onepage-scroll" %>
+
+<script>
+	$(document).ready(function(){
+		$(".main").onepage_scroll({
+			pagination: true,
+			sectionContainer: "section",
+			responsiveFallback: 960,
+			loop: true
+		});
+	});
+</script>
+<% end %>
+
+<body>
+<div class="main">		
+	<!-- Intro -->
+	<section id="slide-1" gt-menu-icon="typicons-home">
+		<div class="grid">
+			<div class="alert unit unit-s-1 unit-m-1-2 unit-l-1-2">
+				<p class="pre-reg">
+					GYMTRACK will be exhibiting at the Canfit Toronto International trade show on August 8th and 9th. Pre-register now for a demo and meeting, or stop by our booth!
+				</p>
+			</div>
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+				<div class="unit-spacer">
+					<div class="logo-wrap">
+						<img src="/assets/gt_logo.png" alt="GymTrack" id="gt-logo">
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div style="clear:both"></div>
+		<div class="slide-1-text">
+			<div>
+				<h2>What we do</h2>
+			</div>
+			<div class="second">
+				Gymtrack allows your members to automatically track their
+				workouts and receive auditory feedback in real-time!
+			</div>
+			<div>
+			<a href="#2"></a>
+			</div>
+			<div class="third">
+				No more pen and paper. No more manual entry.
+			</div>
+		</div>
+	</section>
+	<!-- What is Gymtrack -->
+	<section id="slide-2" gt-menu-icon="typicons-unknown">
+	<div class="grid">
+		<div>
+			<h2>How It Works</h2>
+		</div>
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-4">
+
+			<div class="col-icon">
+				<span class="typicons-tick"></span>
+			</div >
+			<div class="col-title">
+				<span>
+					Easy to Install
+				</span>
+			</div>
+			<div class="col-text">
+				<span>
+					No need for contractors.
+				</span>
+			</div>
+		</div>
+		
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-4">
+			<div class="col-icon">
+				<span class="typicons-world"></span>
+			</div >
+			<div class="col-title">
+				<span>
+					Universal
+				</span>
+			</div>
+			<div class="col-text">
+				<span>
+				Works on all weight stack and cardio machines, free weights, and even bodyweight exercises.
+				</span>
+			</div>
+		</div>
+		
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-4">
+			<div class="col-icon">
+				<span class="typicons-user"></span>
+			</div >
+			<div class="col-title">
+				<span>
+					Completely Standalone
+				</span>
+			</div>
+			<div class="col-text">
+				<span>
+				No need for a smartphone in the gym.
+				</span>
+			</div>
+		</div>
+		
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-4">
+			<div class="col-icon">
+				<span class="typicons-mobile"></span>
+			</div >
+			<div class="col-title">
+				<span>
+					Android and Website Enabled
+				</span>
+			</div>
+			<div class="col-text">
+				<span>
+					Includes an Android and iOS app, and a website.
+				</span>
+			</div>
+		</div>
+	</div>
+	</section>
+	<!--How You Benefit -->
+	<section id="slide-3" gt-menu-icon="typicons-group">
+		<div class="grid">	
+			<div>
+				<h2>How You Benefit</h2>
+			</div>
+			<div class="tag-text">
+				Other equipment makes you the same.<br/>Gymtrack makes you different!
+			</div>
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+				<div class="col2-title">
+					Motivate
+				</div>
+				<div class="col2-text">
+					Members can now see their progress, compete with others, and no longer feel lost in your gym.
+				</div>
+			</div>
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+				<div class="col2-title">
+					Engage
+				</div>
+				<div class="col2-text">
+					Use our data to suggest relevant classes, create competitions, and connect with your members to prevent drop outs before they happen.
+				</div>
+			</div>
+			<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+				<div class="col2-title">
+					Retain
+				</div>
+				<div class="col2-text">
+				Keep your members motivated and engaged to increase retention rates, referrals, and memberships.
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!--Contact-->
+	<section id="slide-4" gt-menu-icon="typicons-mail">	
+
+		<div>
+			<h2>Contact Us</h2>
+		</div>
+		<div class="grid grid-pad">
+			<div class="unit unit-s-1 unit-m-1-3 unit-l-1-3">
+				<span class="bigger">Connect all your equipment, make your facility smart, and drastically change the user experience.</span>
+				<span class="smaller">Or buy three new treadmills. The price is the same, so it’s up to you.</span>
+			</div>
+		
+			<div class="unit unit-s-1 unit-m-2-3 unit-l-2-3">		
+				<div class="grid grid-pad2">
+					<%= render "contact" %>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div style="width:100%;text-align:center;margin-top:8px;font-size:smaller;color:white">
+		GymTrack&copy; Inc 2014
+	</div>
+	</section>
+	<!-- Bottom -->
+		
+</div>
+</body>

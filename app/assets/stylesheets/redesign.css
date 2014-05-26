@@ -1,0 +1,336 @@
+@font-face {
+    font-family: 'GymTrack'; /*a name to be used later*/
+    src: url('gt.ttf'); /*URL to font*/
+}
+
+html,
+button,
+select {
+    color: #FFFFFF;
+}
+body, textarea, input{
+	font-size: 1em;
+	line-height: 1.4;
+	font-family: 'Roboto', sans-serif;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* ==========================================================================
+   Parallax Scroll
+   ========================================================================== */
+body, html {
+	height: 100%;
+	background-color: #222222;
+}
+
+section{
+  overflow: hidden;
+}
+
+h2{
+	text-transform:uppercase;
+	font-weight: 900;
+	font-size: 2.4em;
+	text-shadow: 1px 0 #FFFFFF;
+	letter-spacing:0em;
+}
+
+
+/*******************************************
+START OF SLIDES
+*******************************************/
+
+/*slide 1 top bar*/
+.alert{
+	float:right;
+}
+
+.top-bar{
+	width:100%;
+	height: 200px;
+	display:block;
+}
+
+.logo-wrap{
+	height:auto;	
+	float:left;
+	margin:0;
+	border:0;
+	padding-top:3%;
+	padding-left:3%;
+}
+
+#gt-logo{
+	width:100%;
+	height:auto;
+}
+
+.logo-wrap, .top-div{
+	float:left;
+}
+
+.top-div2{
+	display:inline-block;
+	text-align:right;
+	width:300px;
+
+}
+
+.pre-reg{
+	width: 280px;
+	height: auto;
+	color:white;
+	text-align:left;
+	float:right;
+	margin:4px;
+	padding:2px;
+	background-color:rgba(255,255,255,0.2);
+	border: 2px solid white;
+}
+
+/* Slide 1 */
+#slide-1{
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image:url('rd-slide-1.jpg');
+	background-size: cover;
+}
+
+#slide-1 h2{
+visibility:hidden
+}
+.slide-1-text{
+	width: 100%;
+	text-align:center;
+
+}
+
+.slide-1-text div{
+	margin-top:1em;
+	margin-bottom:1em;
+
+}
+.slide-1-text .first{
+	text-transform:uppercase;
+	font-weight: bolder;
+	font-size: 2.4em;
+	text-shadow: 1px 0 #FFFFFF;
+}
+
+.slide-1-text .second{
+	font-style:italic;
+	font-size: 1.8em;
+	margin-top:2.2em;
+	padding-left:12.5%;
+	padding-right:12.5%;
+}
+
+.slide-1-text .third{
+	margin-top: 2em;
+	text-transform:uppercase;
+	font-size: 1.8em;
+}
+
+.slide-1-text button{
+	background-color:red;
+	color:white;
+	border: 0;
+	border-radius:5px;
+	width: 9em;
+	height: 2.5em;
+	font-size: 1.8em;
+	font-weight: 900;
+}
+
+
+
+/* Slide 2 */
+#slide-2 {
+
+/*	background-image:url('rd-slide-2.jpg');
+*/
+	background-color:white;
+	color:#000000;
+}
+
+#slide-2 .grid{
+	width:90%;
+	margin:5%;
+	text-align:center;
+}
+
+#slide-2 h2{
+	margin-bottom:9%;
+}
+.col-icon span{
+	background-color:white;
+	border-radius:50%;
+	border: 3px solid red;
+	color:red;
+	font-size: 3em;
+	width:90px;
+	height:90px;
+	line-height:90px;
+	display:inline-block;
+	margin-bottom:1em;
+}
+.col-title{
+	font-weight:bold;
+	font-size:1.4em;
+	height: 60px;
+}
+.col-text{
+	font-size:0.9em;
+	
+}
+
+.col-title span{
+	padding:5%;
+}
+.col-text span{
+	padding:5%;
+}
+
+/* Slide 3 */
+#slide-3 {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-image:url('rd-slide-3.jpg');
+	background-size: cover;
+}
+
+#slide-3-content{
+	margin-top:0px;
+	margin-bottom:0px;
+}
+#slide-3 .grid{
+	width:90%;
+	margin:5%;
+	text-align:center;
+}
+#slide-3 .unit{
+	border:0;
+	margin:0;
+	border:0;
+}
+
+#slide-3 .tag-text{
+	font-style:italic;
+	font-size: 2.1em;
+	letter-spacing:0em;
+	margin-top:8%;
+	margin-bottom:9%;
+}
+
+.col2-title{
+	font-weight:900;
+	font-size:1.8em;
+}
+
+.col2-text{
+	padding:4%;
+}
+
+
+
+/* Slide 4*/
+#slide-4 {
+	background-position: right center;
+	background-repeat: no-repeat;
+	background-image:url('pixel-map.png');
+	background-size:contain;
+	text-align:center;
+}
+
+#slide-4 .grid{
+
+text-align:center;
+}
+#slide-4 .unit, .bigger, .smaller{
+	text-align:left;
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+.bigger{
+	font-size: 1.3em;
+	display:block;
+}
+
+.smaller{
+	font-size:1em;
+	font-weight:100;
+}
+
+.form-div{
+	display:inline-block;
+	white-space:nowrap;
+}
+
+.label-text{
+	margin-bottom:4px;
+	width:80px;
+	vertical-align:top;
+	text-align:right;
+	
+	display:none;
+	visibility:hidden;
+}
+
+
+input, #message_content{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+input, #message_content{
+	width:100%;
+	border-radius:5px;
+	box-sizing: border-box;
+	padding:3px;
+}
+#message_content{
+	resize:none;
+}
+
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px;
+}
+
+#submit {
+    background-color: red;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color: #fff;
+    font-size: 1em;
+    text-decoration: none;
+    cursor: poiner;
+	max-width:250px;
+}
+
+#submit:hover {
+	/**/
+}
+
+.field{
+  margin-top:5px;
+  width: 100%;
+}
+.grid-pad{
+padding:5%;
+}
+.grid-pad2{
+padding-left:5%;
+}
