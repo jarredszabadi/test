@@ -26,7 +26,8 @@
     beforeMove: null,
     afterMove: null,
     loop: false,
-    responsiveFallback: false
+    responsiveFallback: false,
+	alertClass: null //Gymtrack - Added field. This fields holds the class name of the alert message we will use for a shortcut.
 	};
 	
 	/*------------------------------------------------*/
@@ -299,8 +300,21 @@
     if(settings.pagination == true)  {
       $(".onepage-pagination li a").click(function (){
         var page_index = $(this).data("index");
+		console.log(page_index);
         el.moveTo(page_index);
       });
+	  /*
+	  GymTrack - custom addition
+	  start of binding moveTo to the alert message*/
+	  var alertElement = settings.alertClass;
+      $("."+alertElement).click(function(){	
+		//hardcoding which section we will use
+		//4 is the slide which has the contact form on it
+		//el.moveTo(4);
+		//Prepend message to form
+		$('#msg-label').text("We're interested in joining.");
+	  });
+	  /*end of binding moveT to the alert message*/
     }
     
     

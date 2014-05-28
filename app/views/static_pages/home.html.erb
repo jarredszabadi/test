@@ -8,7 +8,7 @@
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<!--<link href='http://fonts.googleapis.com/css?family=Archivo+Narrow' rel='stylesheet' type='text/css'>
-	<!--	<link href='http://fonts.googleapis.com/css?family=Pacifico:400' rel='stylesheet' type='text/css'>
+	<!--<link href='http://fonts.googleapis.com/css?family=Pacifico:400' rel='stylesheet' type='text/css'>
  -->
 	<%= stylesheet_link_tag "onepage-scroll" %>
 	<%= stylesheet_link_tag "home" %>
@@ -44,12 +44,38 @@
 	<% end %>
 
 	<body>
+	
 		<div class="main">		
+	
 		<section id="slide-1" gt-menu-icon="typicons-home">
-		<div class="bcg"> 
+
+		<div class="bcg" style=""> 
 			<div class="hsContainer">
 				<div id="slide-1-content"> 
-					<img src="/assets/GymTrack_LogoStacked.png" alt = "GymTrack">
+					<div class="slide-1-top">
+						<div class="top-div">
+							<div class="logo-wrap">
+								<img src="/assets/GymTrack_LogoStacked.png" alt="GymTrack" id="gt-logo">
+							</div>
+						</div>
+						<div class="top-div2">
+							<div class="pre-reg">
+								GYMTRACK will be exhibiting at the Canfit Toronto International trade show on August 8th and 9th. Pre-register now for a demo and meeting, or stop by our booth!
+							</div>
+						</div>						
+					</div>
+					<div style="clear:both"></div>
+					<div class="slide-1-text">
+						<div class="">
+							What we do
+						</div>
+						<div class="">
+							Gymtrack allows your members to automatically track their workouts and receive auditory feedback in real-time
+						</div>
+						<div class="">
+							No more pen and paper. No more manual entry.
+						</div>
+					</div>
 				</div> 
 			</div>  
 		</div>
@@ -59,10 +85,71 @@
 		<div class="bcg" >
 			<div class="hsContainer">
 				<div class="hsContent">
-					<h2>About Us</h2>
 					<div id="slide-2-content">
-						<p id="about-us-text">Gymtrack is a tech startup from Ottawa that builds smart, aftermarket gym equipment for fitness facilities. By retrofitting existing equipment with gymtrack, fitness facilities allow their users to automatically track their workouts and receive auditory personal training feedback in real-time through their smartphones. Gym members can use our app or website to see their progress and challenge other gym users, while fitness facilities get access to data about their gym members that they've never had access to before.
-						</p>
+
+						<div class="slide-2-col">
+							<div class="col-icon">
+								<img>
+							</div >
+							<div class="col-title">
+								<span>
+									Easy to Install
+								</span>
+							</div>
+							<div class="col-text">
+								<span>
+									No need for contractors.
+								</span>
+							</div>
+						</div>
+						
+						<div class="slide-2-col">
+							<div class="col-icon">
+								<img>
+							</div >
+							<div class="col-title">
+								<span>
+									Universal
+								</span>
+							</div>
+							<div class="col-text">
+								<span>
+								Works on all weight stack and cardio machines, free weights, and even bodyweight exercises.
+								</span>
+							</div>
+						</div>
+						
+						<div class="slide-2-col">
+							<div class="col-icon">
+								<img>
+							</div >
+							<div class="col-title">
+								<span>
+									Completely Standalone
+								</span>
+							</div>
+							<div class="col-text">
+								<span>
+								No need for a smartphone in the gym.
+								</span>
+							</div>
+						</div>
+						
+						<div class="slide-2-col">
+							<div class="col-icon">
+								<img>
+							</div >
+							<div class="col-title">
+								<span>
+									Android and Website Enabled
+								</span>
+							</div>
+							<div class="col-text">
+								<span>
+									Includes an Android and iOS app, and a website.
+								</span>
+							</div>
+						</div>
 					</div>
 				</div>            
 			</div>
@@ -74,54 +161,22 @@
 			<div class="hsContainer">
 				<div class="hsContent" >
 					<h2>Meet The Team</h2>
-					<div id="slide-3-content">					
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/lee-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
-							<span class="our-team-name">Lee Silverstone</span>
-							<span class="our-team-title">Co-CEO</span>
-						</div>
+					<div id="slide-3-content">		
 
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/pablo-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
-							<span class="our-team-name">Pablo Srugo</span>
-							<span class="our-team-title">Co-CEO</span>
+						<div>
+							How You Benefit
 						</div>
-
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/jarred-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
-							<span class="our-team-name">Jarred Szabadi</span>
-							<span class="our-team-title">Lead Software Developer</span>
+						<div>
+							Other equipment makes you the same. Gymtrack makes you different.
 						</div>
-
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/corey-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
-							<span class="our-team-name">Corey Yanofsky</span>
-							<span class="our-team-title">Data Scientist</span>
+						<div>
+							<div class="col2-title">
+								
+							</div>
+							<div class="col2-text">
+							
+							</div>
 						</div>
-
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/aaron-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon" >
-							<span class="our-team-name">Aaron Ramsey</span>
-							<span class="our-team-title">Hardware Engineer</span>
-						</div>
-						
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/ron-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
-							<span class="our-team-name">Ron Clough</span>
-							<span class="our-team-title">Hardware Engineer</span>
-						</div>
-
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/tristan-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
-							<span class="our-team-name">Tristan Marquis-Huer</span>
-							<span class="our-team-title">Software Developer</span>
-						</div>
-
-						<div class="our-team-portrait">
-							<img src = "/assets/headshots/kelly-headshot-icon.jpg" alt = "Placeholder" class ="our-team-icon">
-							<span class="our-team-name">Kelly Seay</span>
-							<span class="our-team-title">UI/UX Designer</span>
-						</div>					
 					</div>
 				</div>
 			</div>
@@ -133,8 +188,14 @@
 				<div class="hsContainer">
 					<div class="hsContent" >
 						<h2>Contact Us</h2>
-						<div id="slide-4-content">
-							<%= render "contact" %>
+						
+						<div id="slide-4-content">								
+							<div class="slide-4-text">
+								Connect all your equipment, make your facility smart, and drastically change the user experience. Or buy three new treadmills. The price is the same, so it’s up to you.!
+							</div>
+							<div class="form-div">
+								<%= render "contact" %>
+							</div>
 						</div>
 
 					</div>			

@@ -8,9 +8,9 @@ class ContactController < ApplicationController
       #redirect_to(root_path, :notice => "Message was successfully sent.")
       if @message.valid?
          NotificationsMailer.new_message(@message).deliver
-         redirect_to(root_path, :notice => "Message was successfully sent.")
+         redirect_to(root_path, :notice =>"Message was successfully sent.")
       else
-         redirect_to(root_path, :notice => "Message was unsucessfuly sent.")
+         redirect_to(root_path, :notice =>"Message was unsuccessfully sent.")
       end
    end
 end

@@ -13,7 +13,9 @@ body, textarea, input{
 	line-height: 1.4;
 	font-family: 'Roboto', sans-serif;
 }
-
+body{
+  -webkit-overflow-scrolling: touch;
+}
 fieldset {
     border: 0;
     margin: 0;
@@ -47,7 +49,50 @@ START OF SLIDES
 
 /*slide 1 top bar*/
 .alert{
+	/*float:right;*/
+	position:absolute;
+	z-index:99;
+	background-position: left center;
+	background-repeat: no-repeat;
+	background-image:url('close-arrow.png');
+	width: 375px;
+	background-color:rgba(255,0,0,1);
+	border: 2px solid white;
+
+	/*background-size:contain;*/
+	text-align:right;
+}
+
+.close{
 	float:right;
+	position:relative;
+	top:2px;
+	right:2px;
+	text-align:center;
+	border:solid 2px white;
+	font-size:0.8em;
+	width:20px;
+	height:20px;
+	border-radius:50%;	
+	vertical-align:middle;
+	float:right;
+}
+.visible-tag{
+	display:inline-block;
+	width:9%;
+	margin:0;
+	padding:0;
+}
+
+.pre-reg{
+	width:90%;
+	display:inline-block;
+	font-size:0.9em;
+	color:white;
+	text-align:left;
+	margin:0;
+	padding:0;
+	background-color:red;
 }
 
 .top-bar{
@@ -81,17 +126,6 @@ START OF SLIDES
 
 }
 
-.pre-reg{
-	width: 280px;
-	height: auto;
-	color:white;
-	text-align:left;
-	float:right;
-	margin:4px;
-	padding:2px;
-	background-color:rgba(255,255,255,0.2);
-	border: 2px solid white;
-}
 
 /* Slide 1 */
 #slide-1{
@@ -236,8 +270,6 @@ visibility:hidden
 	padding:4%;
 }
 
-
-
 /* Slide 4*/
 #slide-4 {
 	background-position: right center;
@@ -248,8 +280,7 @@ visibility:hidden
 }
 
 #slide-4 .grid{
-
-text-align:center;
+	text-align:center;
 }
 #slide-4 .unit, .bigger, .smaller{
 	text-align:left;
@@ -318,6 +349,7 @@ textarea {
     text-decoration: none;
     cursor: poiner;
 	max-width:250px;
+	margin-bottom:10px;
 }
 
 #submit:hover {
@@ -325,12 +357,24 @@ textarea {
 }
 
 .field{
-  margin-top:5px;
-  width: 100%;
+	margin-top:5px;
+	width: 100%;
 }
 .grid-pad{
-padding:5%;
+	padding:5%;
 }
 .grid-pad2{
-padding-left:5%;
+	padding-left:5%;
+}
+
+.footer{
+	display:block;
+	width:100%;
+	text-align:center;
+	font-size:smaller;
+	color:white;
+	z-index:99;
+	position:absolute;
+	bottom:0;
+	left:0;
 }

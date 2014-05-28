@@ -1,32 +1,34 @@
 <% @message ||= Message.new %>
 <%= form_for @message, :url => contact_path do |form| %>
-  <fieldset class="fields">
-    <div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-    <div class="unit-spacer">
-          <%= form.label "Name:", :id=>"name-label", :class =>"label-text" %>
-          <%= form.text_field :name, :placeholder=>"Your name", :class=>"contact-input half"%>
-    </div>
-</div>
-    <div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-<div class="unit-spacer">   
-    <%= form.label "E-mail: ", :id=>"email-label", :class =>"label-text" %>
-          <%= form.text_field :email, :required => true, :placeholder=>"Your e-mail", :class=>"contact-input half"%>
-    </div></div>
+	<fieldset class="fields">
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+			<div class="unit-spacer">
+				<%= form.label "Name:", :id=>"name-label", :class =>"label-text" %>
+				<%= form.text_field :name, :placeholder=>"Your name", :class=>"contact-input half"%>
+			</div>
+		</div>
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+			<div class="unit-spacer">		
+				<%= form.label "E-mail: ", :id=>"email-label", :class =>"label-text" %>
+				<%= form.text_field :email, :required => true, :placeholder=>"Your e-mail", :class=>"contact-input half"%>
+			</div>
+		</div>
 
-    <div class="unit unit-s-1 unit-m-1 unit-l-1">
-    <div class="unit-spacer">
-          <%= form.label "Message:", :id=>"msg-label", :class =>"label-text" %>
-          <%= form.text_area :content, :size =>"45x7", :placeholder=>"Your message", :class=>"contact-input"%>
-    </div>
-    </div>
-    <!--  
-      </fieldset>
-      <fieldset class="actions widthLimit"> 
-    -->
-    <div class="unit unit-s-1 unit-m-1 unit-l-1">
-<div class="unit-spacer">   
-    <%= form.submit "Send Message", :id => "submit" %>
-    </div></div>
-  </fieldset>
+		<div class="unit unit-s-1 unit-m-1 unit-l-1">
+			<div class="unit-spacer">
+				<%= form.label "Message:", :id=>"msg-label", :class =>"label-text" %>
+				<%= form.text_area :content, :size =>"45x7", :placeholder=>"Your message", :class=>"contact-input"%>
+			</div>
+		</div>
+		<!-- 	
+			</fieldset>
+			<fieldset class="actions widthLimit"> 
+		-->
+		<div class="unit unit-s-1 unit-m-1 unit-l-1">
+			<div class="unit-spacer">		
+				<%= form.submit "Send Message", :id => "submit" %>
+			</div>
+		</div>
+	</fieldset>
 <% end %>
   
